@@ -10,12 +10,12 @@ dateCreated: 2022-07-27T21:22:48.973Z
 
 # 📲 Data Collection Plugins
 
-![](../.gitbook/assets/data-collection-plugins.PNG)
+![](../assets/data-collection-plugins.PNG)
 
 Data collection can be done using wearable sensors, third-party applications, and client applications.
 
 ![Diagram showing data collection ranging from human and public data
-sources ultimately ending up at the aggregation layer(30)](../.gitbook/assets/data-collection-flow-chart.png)
+sources ultimately ending up at the aggregation layer(30)](../assets/data-collection-flow-chart.png)
 
 ### Data Types
 
@@ -42,4 +42,4 @@ The data sources would include:
 * Visual Affect Data via Web-Cameras: By tracking hundreds of points on the subjects’ faces, InSight can accurately capture emotional states.
 * Prescription Records: Microsoft HealthVault can automatically collect lab results, prescription history, and visit records from a growing list of labs, pharmacies, hospitals, and clinics.
 
-![data import](<../.gitbook/assets/integrations-screenshot (2).PNG>)
+![data import](<../assets/integrations-screenshot.PNG>)

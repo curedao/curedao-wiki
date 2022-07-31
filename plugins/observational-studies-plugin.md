@@ -73,8 +73,8 @@ We have created a new and improved **Outcomes Label** that instead lists the deg
 
 ## Study Index
 
-![studies.crowdsourcingcures.org](../.gitbook/assets/studies.crowdsourcingcures.org.jpeg)
+![studies.crowdsourcingcures.org](../assets/studies.crowdsourcingcures.org.jpeg)
 
 ## Overall Mood Mega Study
 
-![(overall-mood-predictors](../.gitbook/assets/overall-mood-predictors.jpeg)
+![(overall-mood-predictors](../assets/overall-mood-predictors.jpeg)
