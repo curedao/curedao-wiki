@@ -1,16 +1,12 @@
 ---
-title: 02-solution
+title: 2. Solution
 description: 
 published: true
-date: 2022-07-27T21:25:03.187Z
+date: 2022-07-31T16:25:25.637Z
 tags: 
 editor: markdown
-dateCreated: 2022-07-27T21:24:58.229Z
+dateCreated: 2022-07-30T05:24:03.077Z
 ---
-
-👈 [Back to Table of Contents](../README.md)
-
-# 2. Solution
 
 The solution is to use the oceans of real-world evidence to discover new cures.
 
