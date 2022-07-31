@@ -1,8 +1,8 @@
 ---
-title: CureDAO 💡 Lite Paper
+title: 💡 CureDAO Wiki
 description: 
 published: true
-date: 2022-07-28T04:58:45.960Z
+date: 2022-07-31T15:24:40.360Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-28T02:01:12.458Z
