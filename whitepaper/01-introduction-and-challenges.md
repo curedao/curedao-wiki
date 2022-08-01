@@ -1,16 +1,14 @@
 ---
-title: 01-introduction-and-challenges
+title: 01. Introduction and Challenges
 description: 
 published: true
-date: 2022-07-27T21:24:56.722Z
+date: 2022-08-01T19:52:00.881Z
 tags: 
 editor: markdown
-dateCreated: 2022-07-27T21:24:52.408Z
+dateCreated: 2022-07-30T05:23:56.427Z
 ---
 
-### 👈 [Back to Table of Contents](../README.md)
-
-# 1.    The Problem: You and Everyone You Love Will Suffer and Die
+# 1. The Problem: You and Everyone You Love Will Suffer and Die
 
 There are over [2 billion](https://www.george-health.com/global-health-challenge/) people suffering from chronic diseases.
 
