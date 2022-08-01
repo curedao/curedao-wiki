@@ -2,7 +2,7 @@
 title: Tokenomics
 description: How CureDAO governance tokens, the primary store of value in the CureDAO ecosystem, are created, distributed, and used.
 published: true
-date: 2022-08-01T19:31:41.292Z
+date: 2022-08-01T19:45:46.908Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:33.053Z
@@ -29,13 +29,11 @@ dCURES tokens grant [Citizen Scientists](5-organization.md) the right to decide:
 
 ### Token Supply and Distribution
 
-#### Option 1: Token Supply
-
 The goal of CureDAO is for every human on earth to share the natural experiments that define their existence. The world’s population is projected to peak at 9.4 billion around 2070. To enable everyone to become a [Citizen Scientist](5-organization.md), upon genesis, 9.4 billion CureDAO tokens will be created as ERC20 tokens controlled by CureDAO. CureDAO’s token begins unable to exceed that number - it is a capped ERC20 token. This token supply may only increase if the world population exceeds 9.4 billion.
 
 The genesis distribution event will make 10% of CureDAO’s total token supply available to interested participants using a fair and open smart contract auction on the Ethereum blockchain.
 
-![](<../assets/image (3).png>)
+![](<../assets/image.png>)
 
 | Token Quantity | Fraction of Total | Recipient                 |
 | -------------- | ----------------- | ------------------------- |
@@ -63,6 +61,3 @@ The approval of these allocations to [DAO Laboratories](5-organization.md), cont
 The Augmented Bonding Curve (ABC) aligns the incentives of a community to support an underlying public good. It creates the seed funding that will be used to achieve the goal of the Commons, and acts as the interface between the internal economy of the Commons and the outside world.
 {% endembed %}
 
-#### [Next Revenue](7-revenue.md) 👉
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
