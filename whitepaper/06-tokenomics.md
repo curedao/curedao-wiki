@@ -1,22 +1,16 @@
 ---
-title: 06-tokenomics
+title: 6 Tokenomics
 description: 
 published: true
-date: 2022-07-27T21:25:25.293Z
+date: 2022-08-04T21:17:19.364Z
 tags: 
 editor: markdown
-dateCreated: 2022-07-27T21:25:21.237Z
+dateCreated: 2022-07-30T05:24:25.557Z
 ---
-
-👈 [Back to Table of Contents](../README.md)
-
-# Tokenomics
 
 Before tokenomics can be designed, a specific use case needs to be defined.
 
 **What do we want to achieve?**
-
-
 
 * Incentivize health data sharing and usage 
 * User/Community engagement and retention
