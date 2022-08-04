@@ -1,15 +1,12 @@
 ---
-title: 03-platform
+title: 3. Platform
 description: 
 published: true
-date: 2022-07-27T21:25:08.410Z
+date: 2022-08-04T15:30:40.047Z
 tags: 
 editor: markdown
-dateCreated: 2022-07-27T21:25:04.827Z
+dateCreated: 2022-07-30T05:24:09.760Z
 ---
-
-👈 [Back to Table of Contents](../README.md)
-# 3. Platform
 
 ![platform diagram](../assets/platform-architecture.png)
 
