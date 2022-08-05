@@ -1,16 +1,12 @@
 ---
-title: 5-organization
+title: 5. 🏛 Organization 
 description: The DAO will utilize Laboratory working groups which use a scientific experimentation-based approach to effectively carrying out the will of its Citizen Scientist voting members.
 published: true
-date: 2022-07-27T21:26:31.678Z
+date: 2022-08-05T15:45:38.532Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:27.705Z
 ---
-
-# 🏛 Organization
-
-👈 [Back to Table of Contents](../)
 
 CureDAO is a laboratory consisting of many experiments.
 
@@ -83,7 +79,3 @@ CureDAO will contract service providers and pay for their services with any of t
 2. Ethereum
 3. Fiat Currency
 4. Other Incentives
-
-#### [Next Tokenomics](6-tokenomics.md) 👉
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
