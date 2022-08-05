@@ -1,8 +1,8 @@
 ---
-title: Tokenomics
+title: 06. Tokenomics
 description: How CureDAO governance tokens, the primary store of value in the CureDAO ecosystem, are created, distributed, and used.
 published: true
-date: 2022-08-01T19:45:46.908Z
+date: 2022-08-05T15:53:35.899Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:33.053Z
@@ -10,7 +10,7 @@ dateCreated: 2022-07-27T21:26:33.053Z
 
 The CureDAO token is the economic driver of the CureDAO platform. Tokens are obtained by contributing work, data, IP, or funds to CureDAO. The core function of $dCURES is to incentivize data sharing and open-source collaboration.
 
-dCURES tokens grant [Citizen Scientists](5-organization.md) the right to decide:
+dCURES tokens grant [Citizen Scientists](/whitepaper/5-organization) the right to decide:
 
 1. How data will be monetized
 2. How the platform will be monetized
@@ -19,7 +19,7 @@ dCURES tokens grant [Citizen Scientists](5-organization.md) the right to decide:
 5. The terms on which strategic partnerships will be created
 6. Which Gitcoin Grants or Bounties receive funds
 7. What IP contributors will receive funds and how much
-8. How internal [DAO Laboratories](5-organization.md) budgets and projects are funded
+8. How internal [DAO Laboratories](/whitepaper/5-organization) budgets and projects are funded
 9. How CureDAO is governed
 10. How the CureDAO treasury will be managed
 
@@ -29,7 +29,7 @@ dCURES tokens grant [Citizen Scientists](5-organization.md) the right to decide:
 
 ### Token Supply and Distribution
 
-The goal of CureDAO is for every human on earth to share the natural experiments that define their existence. The world’s population is projected to peak at 9.4 billion around 2070. To enable everyone to become a [Citizen Scientist](5-organization.md), upon genesis, 9.4 billion CureDAO tokens will be created as ERC20 tokens controlled by CureDAO. CureDAO’s token begins unable to exceed that number - it is a capped ERC20 token. This token supply may only increase if the world population exceeds 9.4 billion.
+The goal of CureDAO is for every human on earth to share the natural experiments that define their existence. The world’s population is projected to peak at 9.4 billion around 2070. To enable everyone to become a [Citizen Scientists](/whitepaper/5-organization), upon genesis, 9.4 billion CureDAO tokens will be created as ERC20 tokens controlled by CureDAO. CureDAO’s token begins unable to exceed that number - it is a capped ERC20 token. This token supply may only increase if the world population exceeds 9.4 billion.
 
 The genesis distribution event will make 10% of CureDAO’s total token supply available to interested participants using a fair and open smart contract auction on the Ethereum blockchain.
 
@@ -49,15 +49,12 @@ CureDAO will be fully decentralized and community-owned from inception. No entit
 
 dCURE’s genesis contribution event will run via a fair launch public auction, granting all successful auction participants equal governance rights per CureDAO token. Once issued the first 10% of tokens, the CureDAO core community will begin voting on the first governance proposals to allocate additional tokens to DAO Laboratory working groups and service providers.
 
-The approval of these allocations to [DAO Laboratories](5-organization.md), contributors, and service providers is at the full discretion of genesis [Citizen Scientists](5-organization.md) and their approval. They form the core of CureDAO’s decision-making and executive body.
+The approval of these allocations to [DAO Laboratories](/whitepaper/5-organization), contributors, and service providers is at the full discretion of genesis [Citizen Scientists](/whitepaper/5-organization) and their approval. They form the core of CureDAO’s decision-making and executive body.
 
 ## References
 
-{% embed url="https://docs.mint.club" %}
 [Mint Club](https://mint.club) is a smart token building platform that has no need to code and provides instant liquidity.
-{% endembed %}
 
-{% embed url="https://commonsstack.org/abc#simulation" %}
-The Augmented Bonding Curve (ABC) aligns the incentives of a community to support an underlying public good. It creates the seed funding that will be used to achieve the goal of the Commons, and acts as the interface between the internal economy of the Commons and the outside world.
-{% endembed %}
+The [Augmented Bonding Curve (ABC)](https://commonsstack.org/abc#simulation) aligns the incentives of a community to support an underlying public good. It creates the seed funding that will be used to achieve the goal of the Commons, and acts as the interface between the internal economy of the Commons and the outside world.
+
 
