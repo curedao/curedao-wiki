@@ -2,7 +2,7 @@
 title: 01. The Problem: You and Everyone You Love Will Suffer and Die
 description: 
 published: true
-date: 2022-08-05T16:12:29.731Z
+date: 2022-08-05T16:12:51.039Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-30T05:23:56.427Z
@@ -12,9 +12,7 @@ There are over [2 billion](https://www.george-health.com/global-health-challenge
 
 Additionally, [150,000](https://www.weforum.org/agenda/2020/05/how-many-people-die-each-day-covid-19-coronavirus/) people die every single day. For perspective, this is equivalent to:
 
-- **[FIFTY-ONE](https://en.wikipedia.org/wiki/Casualties_of_the_September_11_attacks)** September 11th
-  attacks
-  every day
+- **[FIFTY-ONE](https://en.wikipedia.org/wiki/Casualties_of_the_September_11_attacks)** September 11th attacks every day
 - **[NINE](https://en.wikipedia.org/wiki/Casualties_of_the_September_11_attacks)** Holocausts every year
 
 **Will throwing more money at the existing healthcare system save us?**
