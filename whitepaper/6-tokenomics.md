@@ -2,7 +2,7 @@
 title: 06. Tokenomics
 description: How CureDAO governance tokens, the primary store of value in the CureDAO ecosystem, are created, distributed, and used.
 published: true
-date: 2022-08-05T15:54:12.924Z
+date: 2022-08-05T15:55:33.187Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:33.053Z
@@ -33,7 +33,7 @@ The goal of CureDAO is for every human on earth to share the natural experiments
 
 The genesis distribution event will make 10% of CureDAO’s total token supply available to interested participants using a fair and open smart contract auction on the Ethereum blockchain.
 
-![](</assets/image.png>)
+![token-distribution.png](/assets/token-distribution.png)
 
 | Token Quantity | Fraction of Total | Recipient                 |
 | -------------- | ----------------- | ------------------------- |
