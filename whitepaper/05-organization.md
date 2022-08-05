@@ -1,16 +1,12 @@
 ---
-title: 05-organization
+title: 5. Organization
 description: 
 published: true
-date: 2022-07-27T21:25:19.086Z
+date: 2022-08-05T15:18:59.891Z
 tags: 
 editor: markdown
-dateCreated: 2022-07-27T21:25:15.172Z
+dateCreated: 2022-07-30T05:24:20.744Z
 ---
-
-👈 [Back to Table of Contents](../README.md)
-
-# Organization
 
 The democratic will of the Citizens of Anonymous DAO will be carried out by:
 1. DAO Civil Servants
@@ -75,8 +71,3 @@ Anonymous DAO will contract service providers and pay for their services with an
 3. Fiat Currency
 4. Other Incentives
 
-### [Next Tokenomics](06-tokenomics.md) 👉
-
-<!---<sub><sub>
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-</sub></sub>-->
