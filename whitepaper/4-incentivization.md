@@ -1,26 +1,22 @@
 ---
-title: 4-incentivization
+title: 4. ❤ Incentivization
 description: How we use the DAO structure and NFT IP royalties reward data sharing and open-source collaboration.
 published: true
-date: 2022-07-27T21:26:25.684Z
+date: 2022-08-05T15:28:40.824Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:21.871Z
 ---
 
-# ❤ Incentivization
-
-👈 [Back to Table of Contents](../)
-
 ## Incentive Alignment
 
 Fully realizing the potential of the personalized preventative medicine of the future will require incentivizing cooperation between the following stakeholders:
 
-![incentive alignment](../assets/incentive-alignment.png)
+![incentive alignment](/assets/incentive-alignment.png)
 
 This illustrates the flow of value between different stakeholders. As opposed to traditional zero-sum games, CureDAO provides a way for each self-interested party to derive more value from participation than they have to put into it.
 
-![How Everyone is Better Off](<../assets/value-chain-diagram.png>)
+![How Everyone is Better Off](</assets/value-chain-diagram.png>)
 
 ### 1. Patients
 
@@ -45,7 +41,7 @@ On top of the incentives for businesses listed above, the following incentives w
 2. Massive free marketing exposure through company branded plugins in the Plugin Marketplace.
 3. Revenue derived through subscription or licensing agreements for usage of their plugins in the Plugin Marketplace.
 
-![Branded Plugins](<../assets/plugin-marketplace.png>)
+![Branded Plugins](</assets/plugin-marketplace.png>)
 
 ### 4. Disease Advocacy Non-Profit Organizations
 
@@ -76,6 +72,3 @@ Citizens of the DAO will be incentivized to contribute to the development of the
 
 Compensation for various tasks will be determined democratically by voting here 👉 [Vote on Compensation for Specific Tasks](https://docs.google.com/forms/d/1zNRRLEOnrQmlbKu33NORJQDktJhgneQHsQtJHW3erL0/edit)
 
-#### [Next Organization](5-organization.md) 👉
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
