@@ -1,29 +1,23 @@
 ---
-title: 7-revenue
+title: 7. 💰 Revenue
 description: How CureDAO generates revenue streams to compensate IP and data contributors sustain and grow the project.
 published: true
-date: 2022-07-27T21:26:43.171Z
+date: 2022-08-05T15:44:44.606Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:38.327Z
 ---
 
-# 💰 Revenue
-
-👈 [Back to Table of Contents](../)
-
-## Revenue
-
 The biotech and pharmaceutical industries are two of the fastest-growing sectors of the U.S. economy.
 
-&#x20;![sector-growth](../assets/sector-growth-rates.png)
+![sector-growth](/assets/sector-growth-rates.png)
 
 This growth is likely in part due to two main factors:
 
 * the rise of the novel coronavirus has increased the attention and importance of pharmaceutical development
 * the number of persons older than 60 is expected to more than double in the coming decades
 
-![aging-population](<../assets/growth-in-aging-population.png>)
+![aging-population](</assets/growth-in-aging-population.png>)
 
 These factors all point to a massive potential for the revenue necessary to sustain this project. The primary sources of revenue include:
 
@@ -33,7 +27,7 @@ These factors all point to a massive potential for the revenue necessary to sust
 2. Grants from governments modernizing their programs to take advantage of real-world data
 3. Digital health companies wishing to accelerate product development using existing white-label software or hosted software-as-a-service (SaaS) options
 
-![](<../assets/value-flow-chain (4).svg>)
+![](</assets/value-flow-chain.png>)
 
 ### Hosted Software as a Service (SaaS)
 
@@ -63,7 +57,7 @@ This will ensure that anyone can afford to use it, while still providing compens
 
 ### Plugin Marketplace
 
-![plugin marketplace](<../assets/plugin-marketplace.png>)
+![plugin marketplace](</assets/plugin-marketplace.png>)
 
 ### References
 
@@ -74,6 +68,3 @@ This will ensure that anyone can afford to use it, while still providing compens
 5. [Fair Source License](https://fair.io/?a)
 6. [Fair-code (faircode.io)](https://faircode.io)
 
-#### [Next Legal Framework](8-legal-framework.md) 👉
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
