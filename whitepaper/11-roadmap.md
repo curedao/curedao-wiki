@@ -1,16 +1,12 @@
 ---
-title: 11-roadmap
+title: 11. 🛣 Roadmap
 description: Timeline for DAO organization and technical development
 published: true
-date: 2022-07-27T21:25:57.019Z
+date: 2022-08-05T15:46:33.881Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:25:53.569Z
 ---
-
-# 🛣 Roadmap
-
-👈 [Back to Table of Contents](../)
 
 ## Roadmap
 
@@ -56,8 +52,3 @@ Accompany pilot programs of partners in the fields:
 * Create documentation and education material
 * Promote broader usage
 
-### Q4/2099 Retire and Smile
-
-#### [Next References](12-references.md) 👉
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
