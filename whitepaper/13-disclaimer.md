@@ -1,14 +1,12 @@
 ---
-title: 13-disclaimer
+title: 13. ⚠ DISCLAIMER
 description: 
 published: true
-date: 2022-07-27T21:26:08.358Z
+date: 2022-08-05T15:22:16.951Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:05.424Z
 ---
-
-# ⚠ DISCLAIMER
 
 CureDAO seeks to be as diligent as possible in compiling and updating the information on its website. However, there is no guarantee of the correctness and completeness of the information provided here. CureDAO does not guarantee that this information is up to date and such information may be subject to change at any time and without notice.
 
