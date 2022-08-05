@@ -1,26 +1,22 @@
 ---
-title: 04-incentivization
+title: 4. Incentive Alignment
 description: 
 published: true
-date: 2022-07-27T21:25:13.618Z
+date: 2022-08-05T15:18:09.386Z
 tags: 
 editor: markdown
-dateCreated: 2022-07-27T21:25:10.088Z
+dateCreated: 2022-07-30T05:24:15.739Z
 ---
-
-👈 [Back to Table of Contents](../README.md)
-
-# Incentive Alignment
 
 Fully realizing the potential of the personalized preventative medicine of the future will require incentivizing cooperation between the following stakeholders:
 
-![incentive alignment](../assets/incentivization/incentive-alignment.png)
+![incentive-alignment.png](/assets/incentive-alignment.png)
 
 This illustrates the flow of value between different stakeholders. As opposed to traditional zero-sum games, 
 Anonymous DAO provides a way for each self-interested party can derive more value from participation than they have 
 to put into it. 
 
-![](../assets/business/value-flow-chain.svg)
+![value-flow-chain.png](/assets/value-flow-chain.png)
 
 ## 1. Patients
 
@@ -78,8 +74,3 @@ TODO: Determine amount and type of reward for contributing to the development of
 
 Compensation for various tasks will be determined democratically by voting here 👉 [Vote on Compensation for Specific Tasks](https://docs.google.com/forms/d/1zNRRLEOnrQmlbKu33NORJQDktJhgneQHsQtJHW3erL0/edit)
 
-### [Next Organization](05-organization.md) 👉
-
-<!---<sub><sub>
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-</sub></sub>-->
