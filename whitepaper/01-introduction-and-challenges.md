@@ -2,7 +2,7 @@
 title: 01. The Problem: You and Everyone You Love Will Suffer and Die
 description: 
 published: true
-date: 2022-08-05T16:12:51.039Z
+date: 2022-08-05T16:13:21.097Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-30T05:23:56.427Z
@@ -46,8 +46,7 @@ This data exists in the form of:
 - Grocery, pharmacy, and nutritional supplement receipts
 - Clinical trial results
 
-The digital health revolution started over a decade ago. It was promised to improve human health and reduce costs. Yet,
-all we've seen is increasing costs, increasing disease burden, and decreasing life expectancy.
+The digital health revolution started over a decade ago. It was promised to improve human health and reduce costs. Yet, all we've seen is increasing costs, increasing disease burden, and decreasing life expectancy.
 
 ![cost and death](/assets/cost/health-care-costs-and-life-expectancy.png)
 
