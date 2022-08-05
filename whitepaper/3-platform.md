@@ -1,18 +1,12 @@
 ---
-title: 3-platform
+title: 🏭 Platform
 description: A detailed description of the core open-source platform and plugin framework that will enable the transformation of data into clinical discoveries.
 published: true
-date: 2022-07-27T21:26:20.293Z
+date: 2022-08-05T15:57:47.434Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:16.256Z
 ---
-
-# 🏭 Platform
-
-👈 [Back to Table of Contents](../)
-
-## 3. The Platform
 
 ### Functional Scope
 
@@ -42,14 +36,14 @@ Create a basic foundational technology layer suitable for any digital health app
 * Algorithm and scores development (e.g. in-silico trials)
 * Niche health applications with specific requirements or custom integrations
 
-![framework diagram](../assets/layered-platform-architecture-diagram.png)
+![framework diagram](/assets/layered-platform-architecture-diagram.png)
 
 The platform consists of two primary components:
 
 * **Core Open-Source Platform** - The core platform is open-source and includes only universally necessary features. This primarily consists of user authentication, data owner access controls, data storage, data validation, and an API for storage and retrieval. The DAO will compensate contributors to the core platform.
 * **Plugin Framework** - Plugins are modules that provide additional functionality. This includes data import from specific sources, data mapping to various formats, data analysis, data visualization, notifications. These may be free or monetized by their creator or even be integrated into the core based on community voting.
 
-![framework diagram](<../assets/plugin-marketplace.png>)
+![framework diagram](</assets/plugin-marketplace.png>)
 
 ### 3.1 Core Components
 
@@ -170,7 +164,7 @@ Often a variable can be either be both an input factor or a health outcome with 
 
 **Units of Measurement**
 
-The Unified Code for Units of Measure (UCUM) system will be used to include all units of measures being contemporarily used in international science. The full list of units of measure is available [here](https://github.com/cure-dao/docs/blob/main/reference-databases/units/ucum\_units\_of\_measure.csv).
+The Unified Code for Units of Measure (UCUM) system will be used to include all units of measures being contemporarily used in international science. The full list of units of measure is available [here](https://github.com/cure-dao/docs/blob/main/reference-databases/units/ucum_units_of_measure.csv).
 
 #### 3.1.6. Time Series Data Storage
 
@@ -319,7 +313,3 @@ The background job scheduler will:
 A link between the created structured data and the original file allows backup and reprocessing (e.g. if the data import plugin functionality is expanded in future versions).
 
 Challenges include changing proprietary formats, spreadsheet column matching, long upload times with raw files like from genomic testing.
-
-#### [Next Incentivization](4-incentivization.md) 👉
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
