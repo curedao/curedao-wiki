@@ -1,8 +1,8 @@
 ---
-title: 01. The Problem: You and Everyone You Love Will Suffer and Die
+title: 01. The Problem
 description: 
 published: true
-date: 2022-08-05T16:13:21.097Z
+date: 2022-08-05T16:13:35.101Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-30T05:23:56.427Z
