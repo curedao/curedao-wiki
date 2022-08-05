@@ -1,19 +1,16 @@
 ---
-title: 01. Introduction and Challenges
+title: 01. The Problem: You and Everyone You Love Will Suffer and Die
 description: 
 published: true
-date: 2022-08-01T19:52:00.881Z
+date: 2022-08-05T16:12:29.731Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-30T05:23:56.427Z
 ---
 
-# 1. The Problem: You and Everyone You Love Will Suffer and Die
-
 There are over [2 billion](https://www.george-health.com/global-health-challenge/) people suffering from chronic diseases.
 
-Additionally, [150,000](https://www.weforum.org/agenda/2020/05/how-many-people-die-each-day-covid-19-coronavirus/)
-people die every single day. For perspective, this is equivalent to:
+Additionally, [150,000](https://www.weforum.org/agenda/2020/05/how-many-people-die-each-day-covid-19-coronavirus/) people die every single day. For perspective, this is equivalent to:
 
 - **[FIFTY-ONE](https://en.wikipedia.org/wiki/Casualties_of_the_September_11_attacks)** September 11th
   attacks
@@ -24,9 +21,9 @@ people die every single day. For perspective, this is equivalent to:
 
 Since 2014, healthcare spending per person has been [increasing faster than ever](https://fred.stlouisfed.org/series/HLTHSCPCHCSA) faster than ever before.
 
-![health spending](../assets/cost/us-healthcare-expenditure-per-person.png)
+![health spending](/assets/cost/us-healthcare-expenditure-per-person.png)
 
-Despite this additional spending, life expectancy has actually been [declining](../assets/life-expectancy/life-expectancy-chart.png)
+Despite this additional spending, life expectancy has actually been [declining](/assets/life-expectancy/life-expectancy-chart.png)
 since 2014.
 
 **Will digital health innovation save us?**
@@ -39,7 +36,7 @@ There has been an explosion of recent technological advances in digital health i
 * a [billion](https://www.statista.com/statistics/487291/global-connected-wearable-devices/) connected wearable devices
 
 These innovations have produced [50-fold](https://www.weforum.org/agenda/2015/10/who-should-own-our-health-data/) growth in the amount of data on every disease and every factor that could improve, exacerbate, or prevent it.
-([chart](../assets/data/growth-in-health-data-chart.png))
+([chart](/assets/data/growth-in-health-data-chart.png))
 
 This data exists in the form of:
 
@@ -54,7 +51,7 @@ This data exists in the form of:
 The digital health revolution started over a decade ago. It was promised to improve human health and reduce costs. Yet,
 all we've seen is increasing costs, increasing disease burden, and decreasing life expectancy.
 
-![cost and death](../assets/cost/health-care-costs-and-life-expectancy.png)
+![cost and death](/assets/cost/health-care-costs-and-life-expectancy.png)
 
 **Why haven't we seen a reduction in disease burden?**
 
@@ -67,7 +64,7 @@ So, this explosion in technology, data, and spending has produced no measurable 
 It costs over a [billion dollars](https://www.semanticscholar.org/paper/Innovation-in-the-pharmaceutical-industry%3A-New-of-DiMasi-Grabowski/3275f31c072ac11c6ca7a5260bd535720f07df41) and takes over 10 years to bring a new treatment to market. It
 costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001#:~:text=The%20clinical%20trials%20cost%20a,and%20benchmarking%20clinical%20trial%20costs.) per subject in Phase III clinical trials.
 
-![clinical trial cost](../assets/cost/cost-to-develop-a-drug-chart.png)
+![clinical trial cost](/assets/cost/cost-to-develop-a-drug-chart.png)
 
 This leads to the following problems:
 
@@ -77,7 +74,7 @@ We still know next to nothing about the long-term effects of 99.9% of the 4 poun
 
 Under the current system of research, it costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001#:~:text=The%20clinical%20trials%20cost%20a,and%20benchmarking%20clinical%20trial%20costs.) per subject in Phase III clinical trials. As a result, there is not a sufficient profit incentive for anyone to research the effects of any factor besides a molecule that can be patented.
 
-![how much we know](../assets/how-much-we-know.png)
+![how much we know](/assets/how-much-we-know.png)
 
 #### Lack of Incentive to Discover the Full Range of Applications for Off-Patent Treatments
 
@@ -124,7 +121,7 @@ Furthermore, patient sample sizes are very small. The number of subjects per tri
 * [70](https://www.ncbi.nlm.nih.gov/books/NBK50886/) patients per depression trial
 * [100](https://www.ncbi.nlm.nih.gov/books/NBK50886/) per diabetes trial
 
-![wellbutrin small sample size](../assets/trials/wellbutrin-effectiveness-small-sample-size.png)
+![wellbutrin small sample size](/assets/trials/wellbutrin-effectiveness-small-sample-size.png)
 
 ### **Solution: Collect Data on Actual Patients**
 
@@ -149,8 +146,7 @@ have a ton of overlap in functionality representing [$157,500,000,000](https://w
 If this code was freely shared, everyone could build on what everyone else had done could increase the rate of
 progress by 350,000 times.
 
-![closed source competition vs open source collaboration](..
-/assets/open-source/closed-source-competition-vs-open-source-collaboration.sketch.png)
+![closed source competition vs open source collaboration](/assets/open-source/closed-source-competition-vs-open-source-collaboration.sketch.png)
 
 The obstacle has been the free-rider problem. Software Developers that open source their code give their
 closed-source competitors an unfair advantage.  This increases their likelihood of bankruptcy even higher than the 90% failure rate they already faced.
@@ -169,11 +165,11 @@ dashboards telling us how many steps we got or how much sleep we got are known a
 by integrating all available data from individuals, similar populations, as well as existing clinical research
 findings and applying machine learning we may achieve “prescriptive” real-time decision support.
 
-![real-time decision support](../assets/plugins/quantimodo-real-time-decision-support-notification.png)
+![real-time decision support](/assets/plugins/quantimodo-real-time-decision-support-notification.png)
 
 To facilitate data sharing, the DAO will provide data providers with an onsite easily provisionable OAuth2 API server that will allow individuals to anonymously share their data with the global biobank.
 
-![APIs make siloed data useful](../assets/apis/apis-siloed-data.svg)
+![APIs make siloed data useful](/assets/apis/apis-siloed-data.svg)
 
 ## 1.4 Lack of knowledge about the underlying root of degenerative diseases -> aging
 
@@ -193,10 +189,3 @@ Metabolomics are the building blocks that proteins work with and is necessary fo
 
 Rather than focusing on individual proteins and metabolites, a multi-omics approach can focus on pathway activation and how those pathways are maintained by individual entities and their relationships with each other. We want to identify the difference between young and old network states and be able to tell when an intervention is moving a system towards a more healthy state.
 
-
-### [Next Solution](02-solution.md) 👉
-
-
-<!---<sub><sub>
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-</sub></sub>-->
