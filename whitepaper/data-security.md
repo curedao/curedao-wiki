@@ -1,14 +1,12 @@
 ---
-title: data-security
+title: 🔓 Data Security
 description: CureDAO data security policies and incident management
 published: true
-date: 2022-07-27T21:27:06.542Z
+date: 2022-08-05T15:58:34.156Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:27:02.536Z
 ---
-
-# 🔓 Data Security
 
 ### DATA SECURITY POLICY IN BRIEF
 
