@@ -1,8 +1,8 @@
 ---
-title: 6 Tokenomics
+title: 13. Gamification
 description: 
 published: true
-date: 2022-08-04T21:17:19.364Z
+date: 2022-08-05T15:47:44.362Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-30T05:24:25.557Z
@@ -96,12 +96,4 @@ There are several options and levels of gamification that can be applied to answ
         * Upgraded NFTs, levels, badges, leaderboards, and merchandise
         * By design, CureDAO will address this aspect by aggregating data and making it easier to see progress or changes. Therefore the (high-quality) visualization of user data needs to have a very high priority in the overall product design.
         * If possible, people should be able to see, how often their data has been used and in which trial. (in case there is an option for using my data for every trial; rather than giving access to it on a trial per trial basis). One of the strongest effects here would be to see how many people the research has benefitted (subject to later implementation, if ever). This could be linked to special badges or specific perks after reaching a certain threshold. 
-
-
-
-### [Next Revenue](07-revenue.md) 👉
-
-<!---<sub><sub>
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-</sub></sub>-->
 
