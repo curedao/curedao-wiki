@@ -1,16 +1,12 @@
 ---
-title: 8-legal-framework
+title: 8. 📔 Legal Framework
 description: How to enable the DAO to enter contracts and limit personal liability for DAO members.
 published: true
-date: 2022-07-27T21:26:48.866Z
+date: 2022-08-05T15:24:01.361Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:45.276Z
 ---
-
-# 📔 Legal Framework
-
-👈 [Back to Table of Contents](../)
 
 A decentralized autonomous organization, or a “DAO,” is an “organization” encoded as a transparent computer program, controlled by the organization members, and not by a central corporate entity.
 
@@ -37,6 +33,3 @@ A potential means by which personal liability could be limited for the members o
 9. [https://kelman.law/insights/cayman-islands-crypto-asset-regulatory-framework-for-ico-and-exchanges/](https://kelman.law/insights/cayman-islands-crypto-asset-regulatory-framework-for-ico-and-exchanges/)
 10. [https://lexdao.substack.com/p/token-offerings-and-the-sec?s=r](https://lexdao.substack.com/p/token-offerings-and-the-sec?s=r)
 
-#### [Next Privacy](9-privacy.md) 👉
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
