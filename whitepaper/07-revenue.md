@@ -1,26 +1,22 @@
 ---
-title: 07-revenue
+title: 7. Revenue
 description: 
 published: true
-date: 2022-07-27T21:25:30.714Z
+date: 2022-08-05T15:21:00.814Z
 tags: 
 editor: markdown
-dateCreated: 2022-07-27T21:25:26.748Z
+dateCreated: 2022-07-30T05:24:31.573Z
 ---
 
-👈 [Back to Table of Contents](../README.md)
-
-# Revenue
-
 The biotech and pharmaceutical industries are two of the fastest growing sectors of the U.S. economy.
-![sector-growth](../assets/business/sector-growth-rates.png)
+![sector-growth](/assets/sector-growth-rates.png)
 
 This growth is likely in part due to two main factors:
 
 * the rise of the novel coronavirus has increased the attention and importance of pharmaceutical development
 * the number of persons older than 60 is expected to more than double in the coming decades
 
-![aging-population](../assets/growth-in-aging-population.png)
+![aging-population](/assets/growth-in-aging-population.png)
 
 These factors all point to a massive potential for the revenue necessary to sustain this project. The primary sources of revenue include:
 
@@ -30,7 +26,7 @@ These factors all point to a massive potential for the revenue necessary to sust
 2. Grants from governments modernizing their programs to take advantage of real-world data
 3. Digital health companies wishing to accelerate product development using existing white-label software or hosted software-as-a-service (SaaS) options
 
-![](../assets/business/value-flow-chain.svg)
+![](/assets/value-flow-chain.png)
 
 ## Hosted Software as a Service (SaaS)
 
@@ -65,7 +61,7 @@ generate revenue when utilized by for-profit entities.  Licensing fees will be n
 This will ensure that anyone can afford to use it, while still providing compensation to the developers of the platform.
 
 ## Plugin Marketplace
-![plugin marketplace](../assets/plugins/plugin-marketplace.png)
+![plugin marketplace](/assets/plugins/plugin-marketplace.png)
 
 
 
@@ -78,8 +74,3 @@ This will ensure that anyone can afford to use it, while still providing compens
 5. [Fair Source License](https://fair.io/?a)
 6. [Fair-code (faircode.io)](https://faircode.io/)
 
-### [Next Legal Framework](08-legal-framework.md) 👉
-
-<!---<sub><sub>
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-</sub></sub>-->
