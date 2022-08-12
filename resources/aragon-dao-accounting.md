@@ -2,7 +2,7 @@
 title: aragon-dao-accounting
 description: You can see the token balances for all the DAO members on Aragon.
 published: true
-date: 2022-07-27T21:24:13.047Z
+date: 2022-08-12T17:05:51.962Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:24:09.524Z
@@ -18,6 +18,6 @@ Maybe you'll have better luck, but for some reason, it refuses to load in Chrome
 2. Install Metamask and add the Harmony Chain and our token as [described here](../how-to/get-tokens.md)
 3. Go to [https://client.aragon.org](https://client.aragon.org/)
 4. Connect with harmony wallet
-5. Type `curedao` in Find Existing Org
+5. Type `pcuredao` in Find Existing Org
 6. Let it sync for a long time
 
