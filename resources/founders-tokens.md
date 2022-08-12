@@ -2,7 +2,7 @@
 title: founders-tokens
 description: You can see our pre-genesis Founder's Token on the Harmony Chain Explorer.
 published: true
-date: 2022-07-27T21:24:18.085Z
+date: 2022-08-12T17:14:04.443Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:24:14.865Z
@@ -10,9 +10,8 @@ dateCreated: 2022-07-27T21:24:14.865Z
 
 # 🪙 Founder's Tokens
 
-{% embed url="https://explorer.harmony.one/address/0xb8b6e51f022b6a98ac311820a908d1a37717d8c4" %}
-The contract address is [https://explorer.harmony.one/address/0xb8b6e51f022b6a98ac311820a908d1a37717d8c4](https://explorer.harmony.one/address/0xb8b6e51f022b6a98ac311820a908d1a37717d8c4)
-{% endembed %}
+The token contract address of our PCUREDAO tokens is:
+0x5040f58BA6A9804bc085650f796E2c118EbE2EeB
 
 You can see a breakdown of the current Founder's Token distributions on Aragon.
 
