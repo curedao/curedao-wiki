@@ -2,7 +2,7 @@
 title: CureDAO White Paper
 description: CureDAO's mission is to accelerate clinical discovery by creating a community-owned digital health platform to discover how millions of factors like foods, drugs, and supplements affect human health.
 published: true
-date: 2022-07-27T21:57:48.956Z
+date: 2022-08-12T17:28:07.408Z
 tags: whitepaper, curedao
 editor: markdown
 dateCreated: 2022-07-27T21:57:44.685Z
@@ -27,7 +27,7 @@ dateCreated: 2022-07-27T21:57:44.685Z
   * [🔓 Data Security](data-security.md)
   * [⚠ DISCLAIMER](13-disclaimer.md)
 * [❓ How To Get Involved](how-to/README.md)
-  * [🪙 Quests and Tokens](how-to/get-tokens.md)
+  * [🪙 Quests and Tokens](https://wiki.curedao.org/en/how-to/get-tokens)
   * [💻 Contribute to the Docs](how-to/contribute-to-docs/README.md)
     * [✍ Writing Style Guide](how-to/contribute-to-docs/style-guide.md)
     * [👍 Vote on Amendments to the Constitution](how-to/contribute-to-docs/vote-on-amendments-to-the-constitution.md)
