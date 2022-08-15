@@ -2,7 +2,7 @@
 title: 7. 💰 Revenue
 description: How CureDAO generates revenue streams to compensate IP and data contributors sustain and grow the project.
 published: true
-date: 2022-08-05T15:44:44.606Z
+date: 2022-08-15T23:29:50.597Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:38.327Z
@@ -55,7 +55,7 @@ Although the project core framework will be open-source for any non-commercial p
 
 This will ensure that anyone can afford to use it, while still providing compensation to the developers of the platform.
 
-### Plugin Marketplace
+### Plugin Marketplace or dApp Store
 
 ![plugin marketplace](</assets/plugin-marketplace.png>)
 
