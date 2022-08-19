@@ -2,7 +2,7 @@
 title: multisignature-wallets
 description: Accounts you can steal all our tokens
 published: true
-date: 2022-08-18T18:48:48.448Z
+date: 2022-08-19T10:09:17.784Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:24:19.613Z
@@ -16,6 +16,7 @@ Initially, we had our founder's tokens "GCURES" on the Harmony chain.
 Unfortunately, our Harmony multisig wallet experienced issues throughout the Summer of 2022.
 After trying out several ways to fix it over the Summer, at the beginning of August 2022, we decided to give up on Harmony.
 Consequently, we moved our Multisig and our founders' tokens to Polygon to ensure the stability of our tokens.
+
 Our new founders' tokens are called "PCUREDAO" and all GCURES founders' tokens, have been airdropped as PCUREDAO tokens.
 
 **Our Multisig Wallets:**
