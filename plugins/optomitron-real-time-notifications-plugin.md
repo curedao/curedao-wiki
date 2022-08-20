@@ -26,7 +26,7 @@ A half-billion are suffering from autoimmune diseases like Crone's disease, psor
 
 Probably the most significant is the 3 pounds of thousands of chemicals that we consume every day through our diets. Since the thousands of chemicals in our food have been GRAS or “Generally recognized as safe” by the FDA, there’s no incentive to do research.
 
-![](../assets/how-much-we-know.PNG)
+![](../assets/how-much-we-know.png)
 
 We've built a connector framework that imports data on diet, physical activity, sleep, social interaction, environmental factors, symptom severity, vital signs, and others.
 
