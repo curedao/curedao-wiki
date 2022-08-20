@@ -1,11 +1,11 @@
 ---
 title: Categorize Wiki Pages
 description: The pages on in the wiki folder should be moved to the appropriate category folders such as interventions, data-sources, etc.
-published: true
-date: 2022-07-27T21:24:41.453Z
+published: false
+date: 2022-08-20T04:33:41.769Z
 tags: tasks
 editor: markdown
-dateCreated: 2022-07-27T20:33:20.960Z
+dateCreated: 2022-07-30T05:23:39.773Z
 ---
 
 The best way to do this would be to access the origin mediawiki database and import the pages automatically based on the existing mediawiki categories.
