@@ -1,5 +1,5 @@
 ---
-title: 1-introduction-and-challenges
+title: ☠ Introduction and Challenges
 description: 
 published: true
 date: 2022-07-27T21:25:46.906Z
@@ -7,10 +7,6 @@ tags:
 editor: markdown
 dateCreated: 2022-07-27T21:25:42.505Z
 ---
-
-# ☠ Introduction and Challenges
-
-#### 👈 [Back to Table of Contents](../)
 
 ## 1. The Problem: You and Everyone You Love Will Suffer and Die
 
@@ -78,7 +74,7 @@ We still know next to nothing about the long-term effects of 99.9% of the 4 poun
 
 Under the current system of research, it costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001) per subject in Phase III clinical trials. As a result, there is not a sufficient profit incentive for anyone to research the effects of any factor besides a molecule that can be patented.
 
-![how much we know](<../assets/how-much-we-know.png>)
+![how much we know](/assetss/how-much-we-know.png)
 
 **Lack of Incentive to Discover the Full Range of Applications for Off-Patent Treatments**
 

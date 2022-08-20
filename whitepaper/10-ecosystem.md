@@ -1,5 +1,5 @@
 ---
-title: 10-ecosystem
+title: 🌎 Ecosystem
 description: 
 published: true
 date: 2022-07-27T21:25:52.108Z
@@ -7,10 +7,6 @@ tags:
 editor: markdown
 dateCreated: 2022-07-27T21:25:48.488Z
 ---
-
-# 🌎 Ecosystem
-
-👈 [Back to Table of Contents](../)
 
 ### DAO Lists
 

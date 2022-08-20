@@ -1,5 +1,5 @@
 ---
-title: 12-references
+title: 📖 References
 description: 
 published: true
 date: 2022-07-27T21:26:03.723Z
@@ -7,10 +7,6 @@ tags:
 editor: markdown
 dateCreated: 2022-07-27T21:25:59.145Z
 ---
-
-# 📖 References
-
-👈 [Back to Table of Contents](../)
 
 ## Sources
 
