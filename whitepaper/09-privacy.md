@@ -1,20 +1,16 @@
 ---
-title: 09-privacy
+title: Privacy
 description: 
 published: true
-date: 2022-07-27T21:25:40.968Z
+date: 2022-08-20T04:10:22.211Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:25:37.264Z
 ---
 
-👈 [Back to Table of Contents](../README.md)
-
-# Privacy
-
 The Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) protects the privacy of patients and sets forth guidelines on how this private health information can be shared.  Though the privacy of a patient must be protected, the legal right of a business to sell health information of patients has been upheld by the Supreme Court of the United States.
 
-![de-identification](../assets/privacy/deidentification.png)
+![de-identification](/assets/privacy/deidentification.png)
 
 # De-identification Methods
 
