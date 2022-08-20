@@ -10,7 +10,7 @@ dateCreated: 2022-07-27T21:22:41.374Z
 
 # 🕸 Api Integration Plugins
 
-![](../assets/importer-plugins.PNG)
+![](/assets/importer-plugins.PNG)
 
 ## API Specifications
 

@@ -10,12 +10,12 @@ dateCreated: 2022-07-27T21:22:48.973Z
 
 # 📲 Data Collection Plugins
 
-![](../assets/data-collection-plugins.PNG)
+![](/assets/data-collection-plugins.PNG)
 
 Data collection can be done using wearable sensors, third-party applications, and client applications.
 
 ![Diagram showing data collection ranging from human and public data
-sources ultimately ending up at the aggregation layer(30)](../assets/data-collection-flow-chart.png)
+sources ultimately ending up at the aggregation layer(30)](/assets/data-collection-flow-chart.png)
 
 ### Data Types
 

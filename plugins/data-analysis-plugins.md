@@ -10,6 +10,6 @@ dateCreated: 2022-07-27T21:22:45.335Z
 
 # 🖥 Data Analysis Plugins
 
-![](../assets/data-analysis.PNG)
+![](/assets/data-analysis.PNG)
 
-![](../assets/discovery-scatterplots.PNG)
+![](/assets/discovery-scatterplots.PNG)
