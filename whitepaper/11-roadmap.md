@@ -2,7 +2,7 @@
 title: 11. 🛣 Roadmap
 description: Timeline for DAO organization and technical development
 published: true
-date: 2022-08-05T15:46:33.881Z
+date: 2022-08-23T22:19:52.570Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:25:53.569Z
@@ -10,45 +10,30 @@ dateCreated: 2022-07-27T21:25:53.569Z
 
 ## Roadmap
 
-### Q1/2022 Build the DAO
+### Q4/2022
 
-* Create Whitepaper, Website, Media presence
-* Define collaborators and partners (DAO infrastructure, health data tech)
-* Setup DAO architecture and infrastructure
-* Build community, social media content
-* Fundraising phase (Genesis)
+* Establish a legal entity
+- Apply for SBIR, other grants, & fundraising
+- Mint $CURED tokens that are available via a fair and public auction
+- Automate token compensation
+- Bounties for security issues and bugs
+- Better Documentation of the SDKs and API
+- Developer Support for the Various Languages
 
-### Q2/2022 Minimal Viable Product (MVP)
 
-* Collaborators vote for core features
-* Build MVP along side use in show case trial
-* Closed Testing with collaborators
-* Release V1 of the Software Framework
-* Open Testing with partners
+### Q1/2023
 
-### Q3/2022 Integration and Testing
+- Plugin Framework
+- GUI Data Mapper to Add New Data Import and Export Formats
+- Example integrations/projects in all languages
+- Support OpenCures and AgelessRX in a Clinical Trial for Rapamycin
+- Billing mechanism to charge tokens for usage
 
-* Integrate with other tech architecture (storage providers, data marketplaces, analysis software, etc.. )
-* Integrate with operating health data standards and Electronic Health Record
-* Build show case plugins
-* Release V2 of the Software Framework
-* Promote broader usage
+### Q2/2023
 
-### Q4/2022 Applications Pilots
-
-Accompany pilot programs of partners in the fields:
-
-* Open shared health database for research access
-* Trials platform with participation royalty payback
-* User centered health management
-* Algorithm and scores development
-* Data marketplaces
-
-### Q1/2023 Saas for profit, Plugins, Education
-
-* Create Plugin Marketplace
-* Create No-code platform for instances/ connectors
-* Build hosted SaaS service for profit
-* Create documentation and education material
-* Promote broader usage
+- Partnerships with as many of the 350k digital health apps as possible
+- Support Lifespan.io in a Clinical Trial for Alzheimer's
+- Reference Data Search and Wiki for the curation of variable data links/documentation
+- Additional data importers
+- Federated learning, homomorphic encryption, or decentralized data storage
 
