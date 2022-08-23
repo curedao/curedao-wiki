@@ -2,7 +2,7 @@
 title: 01. The Problem
 description: 
 published: true
-date: 2022-08-05T16:13:35.101Z
+date: 2022-08-23T22:03:40.801Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-30T05:23:56.427Z
@@ -21,8 +21,7 @@ Since 2014, healthcare spending per person has been [increasing faster than ever
 
 ![health spending](/assets/cost/us-healthcare-expenditure-per-person.png)
 
-Despite this additional spending, life expectancy has actually been [declining](/assets/life-expectancy/life-expectancy-chart.png)
-since 2014.
+Despite this additional spending, life expectancy has actually been [declining](/assets/life-expectancy/life-expectancy-chart.png) since 2014.
 
 **Will digital health innovation save us?**
 
@@ -33,7 +32,7 @@ There has been an explosion of recent technological advances in digital health i
 * [350,000](https://www2.deloitte.com/us/en/blog/health-care-blog/2021/how-digital-health-apps-are-empowering-patients.html) digital health apps
 * a [billion](https://www.statista.com/statistics/487291/global-connected-wearable-devices/) connected wearable devices
 
-These innovations have produced [50-fold](https://www.weforum.org/agenda/2015/10/who-should-own-our-health-data/) growth in the amount of data on every disease and every factor that could improve, exacerbate, or prevent it.
+These innovations have produced a [50-fold](https://www.weforum.org/agenda/2015/10/who-should-own-our-health-data/) growth in the amount of data on every disease and every factor that could improve, exacerbate, or prevent it.
 ([chart](/assets/data/growth-in-health-data-chart.png))
 
 This data exists in the form of:
@@ -58,8 +57,7 @@ So, this explosion in technology, data, and spending has produced no measurable 
 
 ### 1.2.1 The Cost of Clinical Research
 
-It costs over a [billion dollars](https://www.semanticscholar.org/paper/Innovation-in-the-pharmaceutical-industry%3A-New-of-DiMasi-Grabowski/3275f31c072ac11c6ca7a5260bd535720f07df41) and takes over 10 years to bring a new treatment to market. It
-costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001#:~:text=The%20clinical%20trials%20cost%20a,and%20benchmarking%20clinical%20trial%20costs.) per subject in Phase III clinical trials.
+It costs over a [billion dollars](https://www.semanticscholar.org/paper/Innovation-in-the-pharmaceutical-industry%3A-New-of-DiMasi-Grabowski/3275f31c072ac11c6ca7a5260bd535720f07df41) and takes over 10 years to bring a new treatment to market. It costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001#:~:text=The%20clinical%20trials%20cost%20a,and%20benchmarking%20clinical%20trial%20costs.) per subject in Phase III clinical trials.
 
 ![clinical trial cost](/assets/cost/cost-to-develop-a-drug-chart.png)
 
@@ -127,7 +125,7 @@ In the real world, no patient can be excluded. Even people with a history of dru
 The results of crowd-sourced studies would exhibit complete and utter external validity since the test subjects are identical to the population of interest.
 
 Furthermore, self-trackers represent a massive pool of potential subjects dwarfing any traditional trial cohort.
-Diet tracking is the most arduous form of self-tracking. Yet, just one of the many available diet tracking apps, **MyFitnessPal,** has 30 million users.
+Diet tracking is the most arduous form of self-tracking. Yet, just one of the many available diet tracking apps, [MyFitnessPal](https://www.myfitnesspal.com/) has 30 million users.
 
 Tracking any variable in isolation is nearly useless in that it cannot provide the causal which can be derived from combining data streams. Hence, this 30 million user cohort is a small fraction of the total possible [stratifiable](https://en.wikipedia.org/wiki/Stratified_sampling) base.
 
@@ -137,7 +135,7 @@ Tracking any variable in isolation is nearly useless in that it cannot provide t
 
 ### 1.3.1   $157 Billion Wasted on Duplication of Effort
 
-There are more than [350,000](https://www.emarketer.com/content/over-350k-digital-health-apps-flooding-market-here-s-how-apps-stand) health apps. Mobile health app development costs [$425,000](https://www.mobihealthnews.com/content/mobile-health-app-development-costs-425000-average-likely-continuing-rise) on average.  Most of these
+There are more than [350,000](https://www.emarketer.com/content/over-350k-digital-health-apps-flooding-market-here-s-how-apps-stand) health apps. Mobile health app development costs [425,000](https://www.mobihealthnews.com/content/mobile-health-app-development-costs-425000-average-likely-continuing-rise) on average.  Most of these
 have a ton of overlap in functionality representing [$157,500,000,000](https://www.mobihealthnews.com/content/mobile-health-app-development-costs-425000-average-likely-continuing-rise) wasted on duplication of effort.
 
 If this code was freely shared, everyone could build on what everyone else had done could increase the rate of
@@ -150,10 +148,8 @@ closed-source competitors an unfair advantage.  This increases their likelihood 
 
 #### How DAOs Overcomes the Free-Rider Problem
 
-1. Currently governments around the world are spending billions funding closed-source propriety health software. The
-   Public Money Public Code initiative would require governments to recognize software as a [public good](https://en.wikipedia.org/wiki/Public_good_(economics)) and require that publicly-funded software be open source.
-2. By encoding contributions to the project with NFTs, we can guarantee ongoing compensation in the
-   form of royalties.
+1. Currently governments around the world are spending billions funding closed-source propriety health software. The Public Money Public Code initiative would require governments to recognize software as a [public good](https://en.wikipedia.org/wiki/Public_good_(economics)) and require that publicly-funded software be open source.
+2. By encoding contributions to the project with NFTs, we can guarantee ongoing compensation in the form of royalties.
 
 ### 1.3.2 Isolated Data Silos
 
@@ -165,8 +161,6 @@ findings and applying machine learning we may achieve “prescriptive” real-ti
 ![real-time decision support](/assets/plugins/quantimodo-real-time-decision-support-notification.png)
 
 To facilitate data sharing, the DAO will provide data providers with an onsite easily provisionable OAuth2 API server that will allow individuals to anonymously share their data with the global biobank.
-
-![APIs make siloed data useful](/assets/apis/apis-siloed-data.svg)
 
 ## 1.4 Lack of knowledge about the underlying root of degenerative diseases -> aging
 
