@@ -2,7 +2,7 @@
 title: 06. Tokenomics
 description: How CureDAO governance tokens, the primary store of value in the CureDAO ecosystem, are created, distributed, and used.
 published: true
-date: 2022-08-05T15:55:33.187Z
+date: 2022-08-23T22:14:03.163Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:33.053Z
@@ -10,7 +10,7 @@ dateCreated: 2022-07-27T21:26:33.053Z
 
 The CureDAO token is the economic driver of the CureDAO platform. Tokens are obtained by contributing work, data, IP, or funds to CureDAO. The core function of $dCURES is to incentivize data sharing and open-source collaboration.
 
-The CureDAO token grants [Citizen Scientists](/whitepaper/5-organization) the right to decide:
+The CureDAO token grants [Citizen Scientists](/whitepaper/5-organization) the right to e.g. decide:
 
 1. How data will be monetized
 2. How the platform will be monetized
