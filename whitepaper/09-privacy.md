@@ -2,7 +2,7 @@
 title: Privacy
 description: 
 published: true
-date: 2022-08-20T04:10:22.211Z
+date: 2022-08-24T15:14:41.757Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:25:37.264Z
@@ -18,12 +18,12 @@ Data de-identification is the process of eliminating Personally Identifiable Dat
 
 ## Safe Harbor Method of De-identification
 
-The HIPAA Safe Harbor Method is a precise standard for the de-identification of personal health information when
-disclosed for secondary purposes.  It requires the removal of 18 identifiers from a dataset:
+The HIPAA Safe Harbor Method is a precise standard for the de-identification of personal health information when disclosed for secondary purposes. 
+It requires the removal of 18 identifiers from a dataset:
 
 1. Names
 2. All geographical subdivisions smaller than a State, including street address, city, county, precinct, zip code, and their equivalent geocodes, except for the initial three digits of a zip code, if according to the current publicly available data from the Bureau of the Census:
-   1. The geographic unit formed by combining all zip codes with the same three initial digits contains more than 20,000 people and
+   1. The geographic unit formed by combining all zip codes with the same three initial digits contains more than 20,000 people
    2. The initial three digits of a zip code for all such geographic units containing 20,000 or fewer people is changed to 000.
 3. All elements of dates (except year) for dates directly related to an individual, including birth date, admission date, discharge date, date of death and all ages over 89 and all elements of dates (including year) indicative of such age, except that such ages and elements may be aggregated into a single category of age 90 or older
 4. Phone numbers
@@ -48,7 +48,7 @@ disclosed for secondary purposes.  It requires the removal of 18 identifiers fro
 
 [ARX](https://arx.deidentifier.org/) is an open-source tool that anonymizes sensitive personal information. It supports a range of privacy and risk models, techniques for data transformation, and techniques to analyze the utility of output data.
 
-### 2. deid software package
+### 2. Deid software package
 
 The [deid software package](https://archive.physionet.org/physiotools/deid/) includes code and dictionaries that automatically locate and remove PHI in free text from medical records. It was developed using over 2,400 nursing notes that were methodically de-identified by a multi-pass process including various automated methods as well as reviews by multiple experts working autonomously.
 
@@ -56,12 +56,13 @@ The [deid software package](https://archive.physionet.org/physiotools/deid/) inc
 
 Privacy-preserving federated analytics for precision medicine with multiparty homomorphic encryption
 
-> Using real-world evidence in biomedical research, an indispensable complement to clinical trials requires access to
-> large quantities of patient data that are typically held separately by multiple healthcare institutions. We propose
-> FAMHE, a novel federated analytics system that, based on multiparty homomorphic encryption (MHE), enables
-> privacy-preserving analyses of distributed datasets by yielding highly accurate results without revealing any
-> intermediate data. We demonstrate the applicability of FAMHE to essential biomedical analysis tasks, including
-> Kaplan-Meier survival analysis in oncology and genome-wide association studies in medical genetics. Using the system, we accurately and efficiently reproduce two published centralized studies in a federated setting, enabling biomedical insights that are not possible from individual institutions alone. Our work represents a necessary key step towards overcoming the privacy hurdle in enabling multi-centric scientific collaborations.
+> Using real-world evidence in biomedical research, an indispensable complement to clinical trials requires access to large quantities of patient data that are typically held separately by multiple healthcare institutions. 
+We propose FAMHE, a novel federated analytics system that, based on multiparty homomorphic encryption (MHE), enables privacy-preserving analyses of distributed datasets by yielding highly accurate results without revealing any
+> intermediate data. 
+We demonstrate the applicability of FAMHE to essential biomedical analysis tasks, including
+> Kaplan-Meier survival analysis in oncology and genome-wide association studies in medical genetics.
+Using the system, we accurately and efficiently reproduce two published centralized studies in a federated setting, enabling biomedical insights that are not possible from individual institutions alone. 
+Our work represents a necessary key step towards overcoming the privacy hurdle in enabling multi-centric scientific collaborations.
 
 # References
 
