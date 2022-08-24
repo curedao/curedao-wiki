@@ -2,7 +2,7 @@
 title: 🏭 Platform
 description: A detailed description of the core open-source platform and plugin framework that will enable the transformation of data into clinical discoveries.
 published: true
-date: 2022-08-05T15:57:47.434Z
+date: 2022-08-24T20:40:03.616Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:16.256Z
@@ -12,10 +12,10 @@ dateCreated: 2022-07-27T21:26:16.256Z
 
 The functional scope of the platform includes:
 
-* aggregation
-* managing
-* processing
-* storage
+* Aggregation
+* Managing
+* Processing
+* Storage
 
 of health data from different sources.
 
@@ -145,7 +145,7 @@ Validation involves the following steps:
 * Outlier detection
 * Strict data type checking for all properties
 
-Invalid Data Handling
+Invalid Data Handling:
 
 * Data deviating from allowed value ranges will be flagged for review and deletion or correction
 * Outliers will be be flagged
@@ -224,7 +224,7 @@ Plugins will be stored in their own repositories based on a plugin template repo
 
 #### 3.2.1 Data Analysis Plugins
 
-The impact of effective and detailed analysis is
+The impact of effective and detailed analysis is:
 
 * The discovery of root causes of disease
 * Development of new interventions
