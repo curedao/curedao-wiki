@@ -2,15 +2,13 @@
 title: 5. 🏛 Organization 
 description: The DAO will utilize Laboratory working groups which use a scientific experimentation-based approach to effectively carrying out the will of its Citizen Scientist voting members.
 published: true
-date: 2022-08-05T15:45:38.532Z
+date: 2022-08-24T14:54:20.553Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:27.705Z
 ---
 
-CureDAO is a laboratory consisting of many experiments.
-
-It’s a global laboratory where the 7 billion human “natural experiments” revealing the effects of various factors on human health and happiness are conducted.
+CureDAO is a global laboratory where the 7 billion human “natural experiments” revealing the effects of various factors on human health and happiness are conducted.
 
 It’s an experiment to determine if a new model for clinical research using real-world data can more effectively reduce the global burden of chronic illness.
 
@@ -64,14 +62,14 @@ The initial Laboratories will be created to carry out the following primary func
 
 Service providers provide services to CureDAO, such as:
 
-* development work
+* Development work
 * IP sourcing and conversion to NFTs
-* marketplace services
-* public relations
-* legal services
-* data science
-* customer support
-* marketing
+* Marketplace services
+* Public relations
+* Legal services
+* Data science
+* Customer support
+* Marketing
 
 CureDAO will contract service providers and pay for their services with any of the following:
 
