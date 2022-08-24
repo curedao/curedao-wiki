@@ -2,7 +2,7 @@
 title: 🌎 Ecosystem
 description: 
 published: true
-date: 2022-07-27T21:25:52.108Z
+date: 2022-08-24T19:37:33.120Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:25:48.488Z
@@ -42,12 +42,6 @@ Dental disease has a high global burden, and dental care comes at a very high co
 
 It also promotes the patients’ long-term oral health instead of short-term care that requires frequent subsequent visits. It is a subscription-based platform that connects patients to dentists and pays the dentists for treating the patients. It also rewards the patient by giving them incentives in the form of ‘Dental coins’ to take care of their teeth and eat healthily. It also promotes patients’ oral health in the long run through its oral health apps and games.
 
-### BLOCKPILL
-
-As the global life expectancy continues to improve, the elderly population will continue to increase. Along with this increase, there will be a rise in the number of people taking several medications for various chronic conditions. In that case, the risk of drug-to-drug interactions is also bound to increase, and that is where BlockPill steps in.
-
-BlockPill aims to eliminate this challenge by providing a solution that ensures safer prescriptions and facilitates communication between different patient management team Citizens. This will reduce the incidence of unwanted drug interactions and allow the modification of medication with ease.
-
 ### ENCRYPGEN
 
 The conclusion of the human genome project ushered in a new era in human genetics. Since then, there has been accelerated interest in studying human DNA and genetics to find lasting solutions to genetic diseases. [Encrypgen](https://encrypgen.com) is using Blockchain to take this even further. Encrypgen is democratizing the availability of DNA for scientific research.
@@ -62,13 +56,13 @@ All transactions are carried out using ‘DNA coins’. This process is expected
 
 The increase in AI-powered medical devices that accompanied the internet-of-things revolution led to the fragmentation of medical records. Electronic medical records were no longer the sole preserve of healthcare providers. Software companies, smart devices, and cell phones became custodians of significant amounts of patients’ health data too.
 
-Pokitdok uses blockchain technology to aggregate these data for patients who subscribe to their services through its Dokchain service. The company also secures these data ensuring double verification for anyone to access any patient’s data.
+[Pokitdok](https://pokitdok.com/) uses blockchain technology to aggregate these data for patients who subscribe to their services through its Dokchain service. The company also secures these data ensuring double verification for anyone to access any patient’s data.
 
 This data can be made available to healthcare providers, insurance companies, or any third-party companies the owners allow.
 
 ### CLINICOIN
 
-Clinicoin is a blockchain-based wellness and fitness community. It seeks its subscribers’ health and connects them to providers while rewarding them for participating in healthy activities. Clinicoin promotes the prevention of diseases by encouraging participation in physical activities and mindfulness exercises.
+[Clinicoin](https://clinicoin.io/en) is a blockchain-based wellness and fitness community. It seeks its subscribers’ health and connects them to providers while rewarding them for participating in healthy activities. Clinicoin promotes the prevention of diseases by encouraging participation in physical activities and mindfulness exercises.
 
 This participation is rewarded by tokens offered to users when healthy activities are logged on the Clinicoin app and verified via third-party tracking applications connected to the company’s app. It also provides an opportunity to reward developers whose health tracking applications are connected to its app.
 
@@ -80,7 +74,7 @@ Fragmentation of electronic medical records poses a huge patient management chal
 
 Afterward, patients can choose who (providers, researchers, or other third-party agents) can access their records, granting them partially or full access. Patients are also rewarded in the process as these providers have to pay them ‘IRYO tokens’. Patients can also use these tokens to pay for the services that the providers have rendered.
 
-### SOLVE.CARE
+### [SOLVE.CARE](https://solve.care/)
 
 Healthcare is expensive everywhere. And especially expensive in America compared to other high-income countries, one of the reasons for this is the high costs of health administration. For instance, research shows that an average of $2,497 per person was expended in administrative costs in the USA in 2017, while an average of $551 per person was expended in Canada in the same year. Solve.Care aims to solve this problem using blockchain technology to drive down administrative costs in healthcare.
 
@@ -108,17 +102,16 @@ Scientists can then use this data for predictive modelling and other types of re
 
 ### Digital Health
 
-* GenomeDAO
-* CrowdfundingCures
-* LabDAO
-* Nectar
+* [GenomeDAO](https://dao.genomes.io/)
+* [CrowdfundingCures](https://crowdfundedcures.org/)
+* [LabDAO](https://www.labdao.xyz/)
+* [Nectar](https://nectar.haus/)
 * Doc.ai
-* BC Platforms
-* Basis Health
-* Precision Health Club
-* OpenHumans
-* OpenSci Foundation
-* Citizen Health
+* [BC Platforms](https://www.bcplatforms.com/)
+* [Basis Health](https://basishealth.io/)
+* [Precision Health Club](https://precisionhealthclub.com/)
+* [OpenHumans](https://www.openhumans.org/)
+* [Citizen Health](https://citizenhealth.io/)
 
 ## References
 
