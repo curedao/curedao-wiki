@@ -2,7 +2,7 @@
 title: 📖 References
 description: 
 published: true
-date: 2022-07-27T21:26:03.723Z
+date: 2022-08-24T20:44:18.573Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:25:59.145Z
@@ -30,7 +30,7 @@ dateCreated: 2022-07-27T21:25:59.145Z
 18. [Healthcare Big Data and the Promise of Value-Based Care (nejm.org)](https://catalyst.nejm.org/doi/full/10.1056/CAT.18.0290)
 19. [Fifty Years of Progress in Chronic Disease Epidemiology and Control (cdc.gov)](https://www.cdc.gov/mmwr/preview/mmwrhtml/su6004a12.htm)
 20. [The Problem with Observational Studies (Epidemiology)](https://www.jeffnobbs.com/posts/the-problem-with-observational-studies-epidemiology)
-21. [Flat Icons](https://www.flaticon.com/packs/flat-icons)
+21. [Flat Icons](https://www.flaticon.com/)
 22. [Why Does the Federal Government Issue Damaging Dietary Guidelines?](https://www.cato.org/policy-analysis/why-does-federal-government-issue-damaging-dietary-guidelines-lessons-thomas#why-did-the-senate-select-committee-launch-an-attack-on-fats)
 23. [Big fat controversy: changing opinions about saturated fats](https://www.aocs.org/stay-informed/inform-magazine/featured-articles/big-fat-controversy-changing-opinions-about-saturated-fats-june-2015?SSO=True)
 24. [Bytes to Bucks: The Valuation of Data - HealthCare Appraisers](https://healthcareappraisers.com/bytes-to-bucks-the-valuation-of-data/)
