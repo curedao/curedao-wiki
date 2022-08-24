@@ -2,7 +2,7 @@
 title: 7. 💰 Revenue
 description: How CureDAO generates revenue streams to compensate IP and data contributors sustain and grow the project.
 published: true
-date: 2022-08-15T23:29:50.597Z
+date: 2022-08-24T14:57:36.776Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:38.327Z
@@ -14,16 +14,16 @@ The biotech and pharmaceutical industries are two of the fastest-growing sectors
 
 This growth is likely in part due to two main factors:
 
-* the rise of the novel coronavirus has increased the attention and importance of pharmaceutical development
-* the number of persons older than 60 is expected to more than double in the coming decades
+* The rise of the novel coronavirus has increased the attention and importance of pharmaceutical development
+* The number of persons older than 60 is expected to more than double in the coming decades
 
 ![aging-population](</assets/growth-in-aging-population.png>)
 
 These factors all point to a massive potential for the revenue necessary to sustain this project. The primary sources of revenue include:
 
 1. Sale of high-frequency longitudinal de-identified data to
-   1. pharma for drug discovery
-   2. research institutions for funded studies
+   1. Pharma for drug discovery
+   2. Research institutions for funded studies
 2. Grants from governments modernizing their programs to take advantage of real-world data
 3. Digital health companies wishing to accelerate product development using existing white-label software or hosted software-as-a-service (SaaS) options
 
@@ -47,7 +47,7 @@ Pricing would follow a subscription model, starting at $2 per end-user per month
 
 ### Data Licensing
 
-Electronic health records (EHRs) can be used to support randomized controlled trials (RCTs). A \[meta-analysis] (https://pubmed.ncbi.nlm.nih.gov/30718353/) found that the per-patient cost in EHR-supported trials varied from [$44 to $2000](https://pubmed.ncbi.nlm.nih.gov/30718353/). Using NFTs, we can link donated data to the patient so that they may receive ongoing royalty payments for the use of their data once new interventions reach the market. A fraction of the revenue, to be determined democratically by the patients and DAO Citizens, may be directed to the DAO treasury to sustain the project.
+Electronic health records (EHRs) can be used to support randomized controlled trials (RCTs). A [meta-analysis](https://pubmed.ncbi.nlm.nih.gov/30718353/) found that the per-patient cost in EHR-supported trials varied from [$44 to $2000](https://pubmed.ncbi.nlm.nih.gov/30718353/). Using NFTs, we can link donated data to the patient so that they may receive ongoing royalty payments for the use of their data once new interventions reach the market. A fraction of the revenue, to be determined democratically by the patients and DAO Citizens, may be directed to the DAO treasury to sustain the project.
 
 ### Software Licensing
 
