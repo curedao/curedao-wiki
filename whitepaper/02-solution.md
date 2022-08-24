@@ -2,7 +2,7 @@
 title: 2. Solution
 description: 
 published: true
-date: 2022-07-31T16:25:25.637Z
+date: 2022-08-24T14:30:51.028Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-30T05:24:03.077Z
@@ -16,8 +16,7 @@ The solution is to use the oceans of real-world evidence to discover new cures.
 - **Preventative medicine** - Predictive analytics and data analysis of genetic, lifestyle, and social circumstances
   to prevent disease
 - **Precision medicine** - Leveraging aggregate data to drive hyper-personalized care
-- **Medical research** - Data-driven medical and pharmacological research to cure disease and discover new
-  treatments and medicines
+- **Medical research** - Data-driven medical and pharmacological research to cure disease and discover new treatments and medicines
 - **Reduction of adverse medication events** - Harnessing of big data to spot medication errors and flag potential
   adverse reactions
 - **Cost reduction** - Identification of value that drives better patient outcomes for long-term savings
@@ -30,8 +29,7 @@ When people think of observational research, they typically think of correlation
 
 #### Why It Seems Like Diet Advice Flip-Flops All the Time
 
-In 1977, the USDA and Time Magazine warned Americans against the perils of dietary cholesterol. And yet in 1999, TIME 
-released a very different cover, suggesting that dietary cholesterol is fine.
+In 1977, the USDA and Time Magazine warned Americans against the perils of dietary cholesterol. And yet in 1999, TIME released a very different cover, suggesting that dietary cholesterol is fine.
 
 ![eggs time covers](/assets/analytics/eggs-time-covers.png)
 
@@ -39,8 +37,8 @@ released a very different cover, suggesting that dietary cholesterol is fine.
 
 There are two primary ways of undertaking studies to find out what affects our health:
 
-1. observational studies - the easier of the two options. They only require handing out questionnaires to people about their diet and lifestyle habits, and then again a few years later to find out which habits are associated with different health outcomes.
-2. randomized trials - the far more expensive option. Two groups of randomly selected people are each assigned a different intervention.
+1. Observational studies - the easier of the two options. They only require handing out questionnaires to people about their diet and lifestyle habits, and then again a few years later to find out which habits are associated with different health outcomes.
+2. Randomized trials - the far more expensive option. Two groups of randomly selected people are each assigned a different intervention.
 
 The largest benefit of randomized trials is that they have the benefit of a "control group". The use of a control
 group overcomes the confounding variable problem that plagues observational studies.
@@ -66,12 +64,12 @@ For instance, if one is suffering from arthritis and they want to know if a Turm
 
 The more this is done, the stronger the statistical significance of the change from baseline observed. However, there are also effects from other variables, that can be addressed using a diffusion-regression state-space model that predicts the counter-factual response in a synthetic control that would have occurred had no intervention taken place. In contrast to classical difference-in-differences schemes, state-space models make it possible to:
 
-1. infer the temporal evolution of attributable impact
-2. incorporate empirical priors on the parameters in a fully Bayesian treatment
-3. flexibly accommodate multiple sources of variation, including:
-   1. local trends
-   2. seasonality
-   3. the time-varying influence of contemporaneous covariates
+1. Infer the temporal evolution of attributable impact
+2. Incorporate empirical priors on the parameters in a fully Bayesian treatment
+3. Flexibly accommodate multiple sources of variation, including:
+   1. Local trends
+   2. Seasonality
+   3. The time-varying influence of contemporaneous covariates
 
 At this time, we apply coefficients representative of each of [Hill’s criteria for causation](http://www.drabruzzi.com/hills_criteria_of_causation.htm) to quantify the likelihood of a causal relationship between two measures as:
 
@@ -90,14 +88,13 @@ At this time, we apply coefficients representative of each of [Hill’s criteria
 ### Meta-Analyses Support of Real-World Evidence
 
 
-Observational real-world evidence-based studies have several advantages over randomized, controlled trials, including
-lower cost, greater timeliness, and a broader range of patients. Concern about inherent bias in these studies,
+Observational real-world evidence-based studies have several advantages over randomized, controlled trials, including lower cost, greater timeliness, and a broader range of patients. Concern about inherent bias in these studies,
 however, has limited their use in comparing treatments. Observational studies have been primarily used in
 situations in which randomized, controlled trials would be impossible or unethical.
 
 However, [meta-analyses](https://www.nejm.org/doi/full/10.1056/NEJM200006223422506) found that:
 
-> when applying modern statistical methodologies to observational studies, the results are generally **not quantitatively or qualitatively different** from those obtained in randomized, controlled trials.
+> When applying modern statistical methodologies to observational studies, the results are generally **not quantitatively or qualitatively different** from those obtained in randomized, controlled trials.
 
 ![Mortality Observational Studies](https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2000/nejm_2000.342.issue-25/nejm200006223422506/production/images/img_medium/nejm200006223422506_f1.jpeg)
 
@@ -128,16 +125,14 @@ average of $74 million dollars (2020 inflation-adjusted)
 to develop and test a new drug for safety before bringing it to market. Once the FDA had approved it as safe, efficacy testing was performed by the third-party American Medical Association.
 
 The 1962 regulations made these large real-world efficacy trials illegal. Ironically, despite the fact that the new regulations were primarily focused on ensuring that drugs were effective through controlled FDA efficacy trials, they massively reduced the quantity and quality of the efficacy data that was collected for several reasons:
-New Trials Were Much Smaller
-Were Far More Expensive
-Participants Were Less Representative of Actual Patients
-They Were Run by Drug Companies with Conflicts of Interest Instead of the 3rd Party AMA
+- New Trials Were Much Smaller
+- Were Far More Expensive
+- Participants Were Less Representative of Actual Patients
+- They Were Run by Drug Companies with Conflicts of Interest Instead of the 3rd Party AMA
 
 ![lifespan and clinical trials](/assets/trials/real-world-evidence-in-efficacy-clinical-trials-vs-rcts.png)
 
-This coincided with the 1962 regulations, it cost a drug manufacturer an
-average of $74 million dollars (2020 inflation-adjusted)
-to develop and test a new drug for safety before bringing it to market. Once the FDA had approved it as safe, efficacy testing was performed by the third-party American Medical Association.
+This coincided with the 1962 regulations, it cost a drug manufacturer an average of $74 million dollars (2020 inflation-adjusted) to develop and test a new drug for safety before bringing it to market. Once the FDA had approved it as safe, efficacy testing was performed by the third-party American Medical Association.
 
 ### An Experiment on Experiments
 
@@ -146,8 +141,7 @@ run an experiment to validate this method of experimentation.  Of course, there'
 
 ## A Black Box Approach to Personalized Medicine
 
-Thus, we can treat the human as a black box and apply predictive
-machine learning models to all of the existing real-world data to [stratified groups](https://en.wikipedia.org/wiki/Stratified_sampling) of similar people based on their:
+Thus, we can treat the human as a black box and apply predictive machine learning models to all of the existing real-world data to [stratified groups](https://en.wikipedia.org/wiki/Stratified_sampling) of similar people based on their:
 
 - [Genomic](https://en.wikipedia.org/wiki/Genomics)
 - [Metabolomic](https://en.wikipedia.org/wiki/Metabolomics)
@@ -157,8 +151,7 @@ machine learning models to all of the existing real-world data to [stratified gr
 - [Pharmacogenomic](https://en.wikipedia.org/wiki/Pharmacogenomics)
 - [Foodomic](https://en.wikipedia.org/wiki/Foodomics)
 
-profiles. This will enable us to discover the personalized full range of positive and negative for all factors
-without a profit incentive for traditional trials.
+profiles. This will enable us to discover the personalized full range of positive and negative for all factors without a profit incentive for traditional trials.
 
 ## Our Current Research
 
