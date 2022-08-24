@@ -2,7 +2,7 @@
 title: 13. Gamification
 description: 
 published: true
-date: 2022-08-05T15:47:44.362Z
+date: 2022-08-24T12:57:18.573Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-30T05:24:25.557Z
@@ -24,13 +24,12 @@ To address all the points listed above, the key is: **Interest**
 
 Now, how can we spark and keep interest alive? The answer is: **Gamification**
 
-The following thoughts are meant to provide tokenomics and a use case for Cure**DAO. **It might not be the best use case for the underlaying and utilized tech stack of CureDAO. Hence, the interest and gamification are user-centric and will likely **not** provide the interest and framework needed for VCs to be interested in investing (delay for revenue, unique business model proposition)
+The following thoughts are meant to provide tokenomics and a use case for CureDAO. 
+It might not be the best use case for the underlaying and utilized tech stack of CureDAO. Hence, the interest and gamification are user-centric and will likely **not** provide the interest and framework needed for VCs to be interested in investing (delay for revenue, unique business model proposition)
 
 The CureDAO framework and technology would enable many different use cases, but coming from an end-user perspective, **<span style="text-decoration:underline;">data aggregation, sharing, and monetarization</span>** are the clear aspects they are interested in.
 
 The tokenomics and gamification therefore always need to address the following questions:
-
-
 
 * Why should users share their data?
 * What´s the benefit of sharing (sensible) health data?
@@ -55,8 +54,8 @@ There are several options and levels of gamification that can be applied to answ
         * NFT holders channel in Discord to have a direct connection to the team and priority customer service (if needed)
     * As **leveling** has a very strong gamification effect, there should be certain levels to achieve. in combination with NFTs, the following points could be implemented:
         * By implementing upgrade functionality for the NFTs, people would have an incentive to not only hold the NFT but rather keep buying CureDAO tokens. There could be certain requirements to level up:
-            * Holding an NFT +
-            * Holding a certain amount of CureDAO tokens +
+            * Holding an NFT
+            * Holding a certain amount of CureDAO tokens
             * Having participated in certain events (data shared xx times; participation in xx clinical trials
         * Leveling up an NFT would grant different benefits:
             * Visual effects for the NFT
