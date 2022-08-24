@@ -2,7 +2,7 @@
 title: ☠ Introduction and Challenges
 description: 
 published: true
-date: 2022-07-27T21:25:46.906Z
+date: 2022-08-24T17:40:00.662Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:25:42.505Z
@@ -31,12 +31,14 @@ Despite this additional spending, life expectancy has actually been \[declining]
 
 There has been an explosion of recent technological advances in digital health including:
 
-* genetic sequencing
-* gut microbiome sequencing
+* Genetic sequencing
+* Gut microbiome sequencing
 * [350,000](https://www2.deloitte.com/us/en/blog/health-care-blog/2021/how-digital-health-apps-are-empowering-patients.html) digital health apps
-* a [billion](https://www.statista.com/statistics/487291/global-connected-wearable-devices/) connected wearable devices
+* 1 [billion](https://www.statista.com/statistics/487291/global-connected-wearable-devices/) connected wearable devices
 
-These innovations have produced a [50-fold](https://www.weforum.org/agenda/2015/10/who-should-own-our-health-data/) growth in the amount of data on every disease and every factor that could improve, exacerbate, or prevent it. ![chart](/assets/growth-in-health-data-chart.png)
+These innovations have produced a [50-fold](https://www.weforum.org/agenda/2015/10/who-should-own-our-health-data/) growth in the amount of data on every disease and every factor that could improve, exacerbate, or prevent it.
+
+![chart](/assets/growth-in-health-data-chart.png)
 
 This data exists in the form of:
 
@@ -64,7 +66,7 @@ So, this explosion in technology, data, and spending has produced no measurable 
 * The process takes over 10 years.
 * It costs [$36k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001) per subject in Phase III clinical trials.
 
-![clinical trial cost](/assets/cost-of-clinical-trials.png) [source: clinicalresearch.io](https://www.clinicalresearch.io/blog/industry-trends/cost-of-clinical-trials-breakdown/)
+![clinical trial cost](/assets/cost-of-clinical-trials.png) [Source: clinicalresearch.io](https://www.clinicalresearch.io/blog/industry-trends/cost-of-clinical-trials-breakdown/)
 
 This high cost leads to the following problems:
 
@@ -73,8 +75,6 @@ This high cost leads to the following problems:
 We still know next to nothing about the long-term effects of 99.9% of the 4 pounds of over [7,000](https://www.dailymail.co.uk/health/article-8757191/Are-additives-food-making-ill.html) different synthetic or natural chemicals you consume every day.
 
 Under the current system of research, it costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001) per subject in Phase III clinical trials. As a result, there is not a sufficient profit incentive for anyone to research the effects of any factor besides a molecule that can be patented.
-
-![how much we know](/assetss/how-much-we-know.png)
 
 **Lack of Incentive to Discover the Full Range of Applications for Off-Patent Treatments**
 
@@ -130,7 +130,7 @@ In the real world, no patient can be excluded. Even people with a history of dru
 
 The results of crowd-sourced studies would exhibit complete and utter external validity since the test subjects are identical to the population of interest.
 
-Furthermore, self-trackers represent a massive pool of potential subjects dwarfing any traditional trial cohort. Diet tracking is the most arduous form of self-tracking. Yet, just one of the many available diet tracking apps, **MyFitnessPal,** has 30 million users.
+Furthermore, self-trackers represent a massive pool of potential subjects dwarfing any traditional trial cohort. Diet tracking is the most arduous form of self-tracking. Yet, just one of the many available diet tracking apps, [MyFitnessPal](https://www.myfitnesspal.com/) has 30 million users.
 
 Tracking any variable in isolation is nearly useless in that it cannot provide the causal which can be derived from combining data streams. Hence, this 30 million user cohort is a small fraction of the total possible [stratifiable](https://en.wikipedia.org/wiki/Stratified\_sampling) base.
 
@@ -138,7 +138,7 @@ Tracking any variable in isolation is nearly useless in that it cannot provide t
 
 ### 1.2.1 $157 Billion Wasted on Duplication of Effort
 
-There are more than [350,000](https://www.emarketer.com/content/over-350k-digital-health-apps-flooding-market-here-s-how-apps-stand) health apps. Mobile health app development costs [$425,000](https://www.mobihealthnews.com/content/mobile-health-app-development-costs-425000-average-likely-continuing-rise) on average. Most of these have a ton of overlap in functionality representing [$157,500,000,000](https://www.mobihealthnews.com/content/mobile-health-app-development-costs-425000-average-likely-continuing-rise) wasted on duplication of effort.
+There are more than [350,000](https://www.emarketer.com/content/over-350k-digital-health-apps-flooding-market-here-s-how-apps-stand) health apps. Mobile health app development costs [425,000](https://www.mobihealthnews.com/content/mobile-health-app-development-costs-425000-average-likely-continuing-rise) on average. Most of these have a ton of overlap in functionality representing [$157,500,000,000](https://www.mobihealthnews.com/content/mobile-health-app-development-costs-425000-average-likely-continuing-rise) wasted on duplication of effort.
 
 If this code was freely shared, everyone could build on what everyone else had done. Theoretically, this could increase the rate of progress by 350,000 times.
 
@@ -157,7 +157,6 @@ The best that isolated data on individual aspects of human health can do is tell
 
 To facilitate data sharing, the CureDAO will provide data providers with an onsite easily provisionable OAuth2 API server that will allow individuals to anonymously share their data with the global biobank.
 
-![APIs make siloed data useful](/assets/apis-siloed-data.svg)
 
 #### [Next Solution](2-solution.md) 👉
 
