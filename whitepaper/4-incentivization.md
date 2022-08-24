@@ -2,7 +2,7 @@
 title: 4. ❤ Incentivization
 description: How we use the DAO structure and NFT IP royalties reward data sharing and open-source collaboration.
 published: true
-date: 2022-08-05T15:28:40.824Z
+date: 2022-08-24T14:42:17.495Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:21.871Z
