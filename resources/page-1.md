@@ -2,7 +2,7 @@
 title: Related Projects
 description: Health data aggregators, Web3 solutions, and DAOs
 published: true
-date: 2022-07-28T02:11:39.960Z
+date: 2022-08-25T15:35:50.736Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:24:25.464Z
@@ -13,19 +13,20 @@ dateCreated: 2022-07-27T21:24:25.464Z
 ## Health Web3 Projects
 
 * https://www.healthblocks.ai/
-* https://www.tamarin.health/nectar and https://nectar.haus/
+* https://www.tamarin.health/nectar & https://nectar.haus/
 * https://www.prifina.com/
 * https://showcase.ethglobal.com/web3jam/clinfts
 
 ## Health Data Aggregation
 
-* https://www.basishealth.io/ with their discord community Basis Health Club
+* https://www.basishealth.io/
 * https://www.joinvitalhealth.com/
 * https://www.juli.co/
 
 ## DAO's and Web3
 
-* https://www.vitadao.com/ and https://www.molecule.to/
+* https://www.vitadao.com/
+* https://www.molecule.to/
 * https://www.psydao.io/
 * https://crowdfundedcures.org/
 * https://www.labdao.com/
@@ -36,11 +37,11 @@ dateCreated: 2022-07-27T21:24:25.464Z
 * https://re-public.io/
 * https://www.apexoptimizers.com/
 * https://rootine.co/precision-health-club
-* Developer DAO
-* Journo DAO
-* Klima DAO
-* Diatom DAO
-* Data Union DAO
+* https://www.developerdao.com/?ref=remote3.co
+* https://journodao.xyz/
+* https://dataunions.org/
+* https://flemingprotocol.io/
+
 
 ## Other Projects
 
