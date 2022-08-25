@@ -1,8 +1,8 @@
 ---
-title: 11. 🛣 Roadmap
+title: 11. 📅 Roadmap
 description: Timeline for DAO organization and technical development
 published: true
-date: 2022-08-23T22:19:52.570Z
+date: 2022-08-25T17:04:05.593Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:25:53.569Z
