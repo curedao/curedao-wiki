@@ -1,8 +1,8 @@
 ---
-title: 06. Tokenomics
+title: 06. 💱 Tokenomics
 description: How CureDAO governance tokens, the primary store of value in the CureDAO ecosystem, are created, distributed, and used.
 published: true
-date: 2022-08-23T22:14:03.163Z
+date: 2022-08-25T17:03:38.221Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:33.053Z
