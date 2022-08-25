@@ -2,7 +2,7 @@
 title: supplement-databases
 description: Dietary Supplement Ingredients
 published: true
-date: 2022-08-25T20:06:59.268Z
+date: 2022-08-25T21:50:07.113Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:23:53.126Z
@@ -13,14 +13,12 @@ dateCreated: 2022-07-27T21:23:53.126Z
 ## Dietary Supplement Label Database
 
 The Dietary Supplement Label Database (DSLD) includes label-derived information from dietary supplement products marketed in the U.S.
-
-https://dsld.od.nih.gov/
+[DSLD](https://dsld.od.nih.gov/)
 
 ## Dietary Supplement Ingredient Database
 
 These data are appropriate for use in population studies of nutrient intake rather than for assessing the content of individual products.
-
-https://dietarysupplementdatabase.usda.nih.gov/
+[DSID](https://dietarysupplementdatabase.usda.nih.gov/)
 
 Use Dietary Supplement Label Database above if you need data on specific branded products.
 
