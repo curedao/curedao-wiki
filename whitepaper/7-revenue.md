@@ -1,8 +1,8 @@
 ---
-title: 7. 💰 Revenue
+title: 07. 💰 Revenue
 description: How CureDAO generates revenue streams to compensate IP and data contributors sustain and grow the project.
 published: true
-date: 2022-08-24T14:57:36.776Z
+date: 2022-08-25T17:05:41.399Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:38.327Z
