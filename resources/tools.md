@@ -2,7 +2,7 @@
 title: tools
 description: Stuff we use to do stuff
 published: true
-date: 2022-08-25T19:12:37.516Z
+date: 2022-08-25T21:38:02.681Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:24:31.984Z
@@ -11,16 +11,16 @@ dateCreated: 2022-07-27T21:24:31.984Z
 # 🛠 Tools
 
 ## Code
-
-https://github.com/cure-dao
+[Github](https://github.com/cure-dao)
 
 ## Wiki Database
 
-https://www.notion.so/cure-dao/Cure-DAO-Haus-242d38077dcc41f6a138ecdf27a4ba58
+[Notion](https://www.notion.so/cure-dao/Cure-DAO-Haus-242d38077dcc41f6a138ecdf27a4ba58)
 
 ## Planning
 
-Join our task management tool, ClickUp, by filling out our "Join Us" form: https://www.curedao.org/join-us
+Join our task management tool, ClickUp, by filling out our "Join Us" form:
+[Join Us](https://www.curedao.org/join-us)
 
 ## Figma
-https://www.figma.com/team_invite/redeem/m9YWqegKCzTq8DB66MRd6B
+[Figma](https://www.figma.com/team_invite/redeem/m9YWqegKCzTq8DB66MRd6B)
