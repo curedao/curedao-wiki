@@ -2,7 +2,7 @@
 title: founders-tokens
 description: You can see our pre-genesis Founder's Token on the Harmony Chain Explorer.
 published: true
-date: 2022-08-25T16:47:04.516Z
+date: 2022-08-25T16:48:27.011Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:24:14.865Z
@@ -29,8 +29,6 @@ https://www.followchain.org/add-polygon-to-metamask/
 Step 2: Add the PCUREDAO token to Metamask 
 Click "Import tokens" and add the token address:
 0x5040f58BA6A9804bc085650f796E2c118EbE2EeB
-
-![pcuredao metamask.png](/pcuredao metamask.png)
 
 Step 3: Provide us with your Polygon/Ethereum address 
 By including it in the form or contacting Andreas Melhede.
