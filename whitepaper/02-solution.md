@@ -1,8 +1,8 @@
 ---
-title: 2. Solution
+title: 02. 💡 Solution
 description: 
 published: true
-date: 2022-08-24T14:30:51.028Z
+date: 2022-08-25T17:01:32.192Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-30T05:24:03.077Z
