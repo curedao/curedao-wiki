@@ -1,8 +1,8 @@
 ---
-title: 8. 📔 Legal Framework
+title: 08. 📔 Legal Framework
 description: How to enable the DAO to enter contracts and limit personal liability for DAO members.
 published: true
-date: 2022-08-24T14:59:08.874Z
+date: 2022-08-25T17:05:58.079Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:45.276Z
