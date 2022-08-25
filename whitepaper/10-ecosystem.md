@@ -1,8 +1,8 @@
 ---
-title: 🌎 Ecosystem
+title: 09. 🌎 Ecosystem
 description: 
 published: true
-date: 2022-08-24T19:37:33.120Z
+date: 2022-08-25T17:06:39.362Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:25:48.488Z
