@@ -1,8 +1,8 @@
 ---
-title: 02. 🏭 Platform
+title: 03. 🏭 Platform
 description: A detailed description of the core open-source platform and plugin framework that will enable the transformation of data into clinical discoveries.
 published: true
-date: 2022-08-25T17:00:29.836Z
+date: 2022-08-25T17:01:05.967Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:26:16.256Z
