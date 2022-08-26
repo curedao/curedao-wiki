@@ -1,3 +1,13 @@
+---
+title: data-owner-terms-of-service
+description: 
+published: true
+date: 2022-08-26T20:51:07.848Z
+tags: 
+editor: markdown
+dateCreated: 2022-08-20T02:26:27.323Z
+---
+
 Note: This agreement applies to consumer end-users utilizing one of CureDAO’s apps. For the CureDAO Platform client 
 application terms of service, please see 
 [https://curedao.org/legal/partner-terms-of-service/](https://curedao.org/legal/partner-terms-of-service/)
@@ -128,8 +138,4 @@ You are contracting with:
 
 CureDAO Inc.
 
-
-
-
-
-tos@curedao.org
+hello@curedao.org
