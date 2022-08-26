@@ -2,7 +2,7 @@
 title: predictor-search-engine-plugin
 description: 
 published: true
-date: 2022-07-27T21:23:11.881Z
+date: 2022-08-26T17:37:44.390Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:23:08.952Z
@@ -14,13 +14,14 @@ Aggregated user data is used to determine the factors that most influence any gi
 
 Anyone wanting to optimize any quantifiable aspect of their life is able to search and see a list of the products that are most effective at helping the average user achieve a particular health and wellness goal. For instance, if one wishes to improve one’s sleep efficiency, go to our site and search for “sleep efficiency”, where one is able to select from the list of products that most affect sleep efficiency.
 
-Impact: Clinicians and those suffering from chronic conditions will have access to the personalized effectiveness rates of treatments and the percent likelihood of root causes.
+**Impact:**
+Clinicians and those suffering from chronic conditions will have access to the personalized effectiveness rates of treatments and the percent likelihood of root causes.
 
 The search engine is available in a variety of layout settings.
 
 ### Network Graph Style
 
-[Network Graph Demo](https://app.quantimo.do/variables/Overall%20Mood)
+[Example of Graph](https://studies.curedao.org/variables/Overall_Mood)
 
 ![Network Graph Style](/assets/overall-mood-predictors-network-graph.png)
 
