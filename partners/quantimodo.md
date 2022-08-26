@@ -1,8 +1,8 @@
 ---
-title: quantimodo
+title: QuantiModo
 description: 
 published: true
-date: 2022-08-26T20:35:25.528Z
+date: 2022-08-26T20:35:40.160Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:22:33.370Z
