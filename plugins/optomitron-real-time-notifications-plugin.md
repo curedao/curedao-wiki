@@ -2,7 +2,7 @@
 title: optomitron-real-time-notifications-plugin
 description: Optomitron is an AI assistant that analyzes your data discover which hidden factors are most likely to worsen or improve inflammatory symptom severity.
 published: true
-date: 2022-07-27T21:23:03.988Z
+date: 2022-08-26T16:03:41.248Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:23:01.064Z
@@ -10,13 +10,9 @@ dateCreated: 2022-07-27T21:23:01.064Z
 
 # 🤖 Optomitron Real-Time Decision Support Plugin
 
-{% embed url="https://youtu.be/hd50A74o8YI" %}
-Optomitron in Action
-{% endembed %}
-
-#### [DEMO WEBSITE](https://demo.quantimo.do/dev/src/index.html#/app/chat)
-
 Optimitron is an AI assistant that asks you about your symptoms and potential factors. Then she applies pharmacokinetic predictive analysis to inform you of the most important things you can do to minimize symptom severity.
+
+### [Optomitron in Action](https://youtu.be/hd50A74o8YI)
 
 ![inflammation worldwide](/assets/inflammation-worldwide.PNG)
 
@@ -34,13 +30,13 @@ We've built a connector framework that imports data on diet, physical activity, 
 
 Then we apply pharmacokinetic predictive analysis that accounts for onset delays and durations of action. This enables her to obtain personalized effectiveness values (similar to recommended daily values) for treatments and reveal potential root causes of chronic conditions.
 
-![screenshot](<../assets/optomitron-notifications-screenshot.png>)
+![decision_support_notification_plugins.png](/decision_support_notification_plugins.png)
 
 The accuracy of the results obtained from quasi-experimental techniques and observational data is highly dependent on the quantity and quality of the data. To maximize the amount of available data, we're currently in the process of creating a decentralized autonomous organization called CureDAO. Its mission is to create an open-source platform for crowd-sourced clinical research. It incentivizes collaboration and data sharing by competing entities by issuing non-fungible tokens to any contributor of intellectual property or data.
 
-Contributors of data and intellectual property will receive ongoing royalties for their contributions linked to their non-fungible tokens. We are currently meeting with investors and recruiting members. We plan to hold a fair and public auction for CureDAO tokens in May 2022.
+Contributors of data and intellectual property will receive ongoing royalties for their contributions linked to their non-fungible tokens.
 
-## References
+## Links
 
 1. [SunilDeshpande\_S2014\_ETD.pdf (asu.edu)](https://keep.lib.asu.edu/\_flysystem/fedora/c7/114023/Deshpande\_asu\_0010E\_14022.pdf)
 2. [LocalControl: An R Package for Comparative Safety and Effectiveness Research | Journal of Statistical Software (jstatsoft.org)](https://www.jstatsoft.org/article/view/v096i04)
