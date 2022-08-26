@@ -2,13 +2,13 @@
 title: Crowdsourcing Cures
 description: 
 published: true
-date: 2022-07-28T05:02:37.354Z
+date: 2022-08-26T19:04:23.080Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:22:24.826Z
 ---
 
-Over a billion minds are currently debilitated by a neurological disorder or mental illness.
+More than a billion minds are currently debilitated by a neurological disorder or mental illness.
 
 ![](https://crowdsourcingcures.org/wp-content/uploads/2020/09/brain-diseases-1.png)
 
