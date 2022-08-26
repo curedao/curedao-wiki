@@ -1,10 +1,13 @@
+---
+title: partner-terms-of-service
+description: 
+published: true
+date: 2022-08-26T20:59:22.449Z
+tags: 
+editor: markdown
+dateCreated: 2022-08-20T02:26:32.448Z
+---
 
----
-created: 2022-08-11T20:49:30 (UTC -05:00)
-tags: []
-source: https://curedao.org/platform-terms-of-service/
-author:
----
 
 # Platform Terms of Service - CureDAO
 
@@ -70,7 +73,7 @@ Company hereby grants a limited, non-exclusive, non-transferable and terminable 
 
 2.5.1 Organizational Customers will be responsible for receiving and responding to all calls for support from any Customer members or users (End Users) for the Services and for performing initial problem analysis, diagnosis, and replication of the problem at Organizational Customer’s location. Problems will be deemed replicated if they occur persistently, if it seems reasonably likely they originate in the Services, and if Customer reasonably cooperates with Company by providing logs and other information about the problem, its occurrences, and provides assistance to Company to help isolate the problem.
 
-2.5.2 Company provides online and email technical support. Customer shall contact Company Support by email at the following address: info@curedao.org. In order for Company to process Customer’s support request, Customer shall: (1) Identify him or herself and the API affected, (2) Describe the nature of the outage, (3) Provide contact information in the form of email for follow up communications.
+2.5.2 Company provides online and email technical support. Customer shall contact Company Support by email at the following address: hello@curedao.org. In order for Company to process Customer’s support request, Customer shall: (1) Identify him or herself and the API affected, (2) Describe the nature of the outage, (3) Provide contact information in the form of email for follow up communications.
 
 2.5.3 Exceptions: Company has no obligation to provide support services for problems in the operation or performance of the Services caused by a non-Company software or hardware product. If Company determines that it is necessary to perform support services for a problem caused by a Customer-generated error, then Company will notify Customer thereof as soon as Company is aware of such Customer-generated error and, upon Customer’s written request, Company will perform such professional services and invoice Customer at Company’s then-current time and materials rates for all such professional services performed by Company.
 
@@ -176,6 +179,6 @@ You are contracting with:
 
 CureDAO Inc.
 
-tos@curedao.org
+hello@curedao.org
 
 
