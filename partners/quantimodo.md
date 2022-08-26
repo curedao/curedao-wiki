@@ -2,7 +2,7 @@
 title: quantimodo
 description: 
 published: true
-date: 2022-07-27T21:22:36.036Z
+date: 2022-08-26T20:35:25.528Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:22:33.370Z
@@ -28,7 +28,7 @@ Keep trying and tracking new things until you perfect your life!
 
 QuantiModo allows you to import your users' data from a wide array of applications and devices.
 
-Who We Help
+### Who We Help
 
 #### Patients
 
@@ -38,7 +38,7 @@ Using our client apps and browser extensions, patients can easily track their sy
 
 Digital health app creators and quantified-self start-ups can save months of development time and tens of thousands of dollars by using our platform instead of reinventing the wheel.
 
-[Learn More](mailto:info@quantimo.do)
+[Get involved](mailto:info@quantimo.do)
 
 #### Researchers
 
