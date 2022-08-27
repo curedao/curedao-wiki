@@ -2,7 +2,7 @@
 title: discord-code-of-conduct
 description: 
 published: true
-date: 2022-07-27T21:37:43.904Z
+date: 2022-08-27T16:26:31.611Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:37:39.887Z
@@ -15,8 +15,9 @@ dateCreated: 2022-07-27T21:37:39.887Z
 
 [https://discordapp.com/guidelines](https://discordapp.com/guidelines)
 
-**2. Be respectful with all members**\
-Be respectful and civil to others! No death threats, sexism, hate speech, racism, doxxing, swatting, witch hunting, bullying, racism, misogyny, or discrimination of any kind
+**2. Be respectf//ul with all/ members**\
+Be respectful and civil to others! 
+No death threats, sexism, hate speech, racism, doxxing, swatting, witch hunting, bullying, racism, misogyny, or discrimination of any kind
 
 **3. No Advertising**\
 Includes DM Advertising. We do not allow advertising of any kind.
@@ -45,4 +46,4 @@ We cannot easily moderate chats in different languages, sorry. English only.
 **11. No medical advice**\
 This is not a place to give or receive medical advice. This community is not intended to diagnose, treat, cure or prevent specific diseases and is not a replacement for seeking medical care.
 
-Do not post or share low quality research, surveys, or studies. If you are interested in learning more, always do your own research and /or ask a medical professional.
+Do not post or share low quality research, surveys, or studies. If you are interested in learning more, always do your own research and/or ask a medical professional.
