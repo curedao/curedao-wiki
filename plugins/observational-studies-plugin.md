@@ -1,14 +1,12 @@
 ---
-title: observational-studies-plugin
+title: 📑 Observational Studies Plugin
 description: We’ve collected over 10 million data points on symptom severity and influencing factors from over 10,000 people.
 published: true
-date: 2022-08-26T15:16:16.478Z
+date: 2022-08-28T15:11:24.587Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:22:53.120Z
 ---
-
-# 📑 Observational Studies Plugin
 
 We publish our anonymously aggregated analyses at [the Journal of Citizen Science](https://studies.crowdsourcingcures.org/). So far, we’ve collected over 10 million data points on symptom severity and influencing factors from over 10,000 people. This data has been used to freely publish 90,000 studies on the effects of various treatments and food ingredients on symptom severity.
 
