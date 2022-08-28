@@ -1,14 +1,12 @@
 ---
-title: optomitron-real-time-notifications-plugin
+title: 🤖 Optomitron Real-Time Decision Support Plugin
 description: Optomitron is an AI assistant that analyzes your data discover which hidden factors are most likely to worsen or improve inflammatory symptom severity.
 published: true
-date: 2022-08-26T16:03:41.248Z
+date: 2022-08-28T15:13:03.741Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:23:01.064Z
 ---
-
-# 🤖 Optomitron Real-Time Decision Support Plugin
 
 Optimitron is an AI assistant that asks you about your symptoms and potential factors. Then she applies pharmacokinetic predictive analysis to inform you of the most important things you can do to minimize symptom severity.
 
