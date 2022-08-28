@@ -1,14 +1,12 @@
 ---
-title: data-collection-plugins
+title: 📲 Data Collection Plugins
 description: Data collection can be done using wearable sensors, third-party applications, and client applications.
 published: true
-date: 2022-08-26T14:17:53.901Z
+date: 2022-08-28T15:16:12.088Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:22:48.973Z
 ---
-
-# 📲 Data Collection Plugins
 
 ![](/assets/data-collection-plugins.PNG)
 
