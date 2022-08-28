@@ -1,14 +1,12 @@
 ---
-title: outcome-labels-plugin
+title: 🏷 Outcome Labels Plugin
 description: 
 published: true
-date: 2022-08-26T16:57:04.044Z
+date: 2022-08-28T15:12:30.345Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:23:05.142Z
 ---
-
-# 🏷 Outcome Labels Plugin
 
 ![outcome-labels-plugin.png](/assets/outcome-labels.PNG)
 
