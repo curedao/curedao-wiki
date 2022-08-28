@@ -1,14 +1,12 @@
 ---
-title: predictor-search-engine-plugin
+title: 🔎 Predictor Search Engine Plugin
 description: 
 published: true
-date: 2022-08-26T17:37:44.390Z
+date: 2022-08-28T15:11:47.523Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:23:08.952Z
 ---
-
-# 🔎 Predictor Search Engine Plugin
 
 Aggregated user data is used to determine the factors that most influence any given aspect of health, powering the QM Search Engine.
 
