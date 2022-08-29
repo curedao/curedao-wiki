@@ -2,7 +2,7 @@
 title: style-guide
 description: How to contribute to the CureDAO documentation.
 published: true
-date: 2022-07-27T21:35:33.814Z
+date: 2022-08-29T16:26:37.033Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:35:30.352Z
@@ -10,8 +10,7 @@ dateCreated: 2022-07-27T21:35:30.352Z
 
 # ✍ Writing Style Guide
 
-{% hint style="danger" %}
-Be sure to use [Grammarly ](https://grammarly.com)(or [Language Tool ](https://languagetool.org)if editing on Githbook) to avoid any grammatical errors.
+Please use [Grammarly](https://grammarly.com) and/or [Language Tool](https://languagetool.org)if editing on Githbook to avoid any grammatical errors.
 {% endhint %}
 
 ## General principles
@@ -76,14 +75,9 @@ To ensure that all content is verifiable, anyone may question an uncited claim b
 
 `[citation_needed]`
 
-tag, or by using a more comprehensive
+tag, or by using a more comprehensive clause:
 
 `[citation needed|reason=<i>Your explanation here</i>|date=January 2022]`
 
-clause.
 
 > **Example:** 65% of people believe elves are real.\[citation\_needed]
-
-See a list of pages where citations are needed at:
-
-[Search · citation\_needed (github.com)](https://github.com/cure-dao/draft-whitepaper/search?q=citation\_needed)
