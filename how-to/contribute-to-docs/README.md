@@ -2,7 +2,7 @@
 title: README
 description: If you need any help to get set up, ask @mikepsinn for help in the Discussions forum. I'd be happy to respond to any questions or have a video call with you.
 published: true
-date: 2022-07-27T21:35:28.718Z
+date: 2022-08-29T15:11:50.489Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:35:25.422Z
@@ -10,8 +10,7 @@ dateCreated: 2022-07-27T21:35:25.422Z
 
 # 💻 Contribute to the Docs
 
-{% hint style="danger" %}
-Make sure to adhere to the [Writing Style Guide](style-guide.md) and always use [Grammarly ](https://grammarly.com)(or [Language Tool ](https://languagetool.org)if editing on Githbook) to avoid any grammatical errors.
+Make sure to adhere to the [Writing Style Guide](style-guide.md) and always use [Grammarly](https://grammarly.com) and/or [Language Tool](https://languagetool.org) to avoid any grammatical errors.
 {% endhint %}
 
 ## Option 1: Edit or Comment On Gitbook
