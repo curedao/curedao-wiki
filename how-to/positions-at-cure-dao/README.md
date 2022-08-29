@@ -2,7 +2,7 @@
 title: README
 description: We need you!
 published: true
-date: 2022-07-27T21:35:43.289Z
+date: 2022-08-29T19:28:01.740Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:35:39.478Z
@@ -10,22 +10,21 @@ dateCreated: 2022-07-27T21:35:39.478Z
 
 # 👷 Positions At CureDAO
 
-{% hint style="info" %}
-Click 👉👉👉 [here](https://notionforms.io/forms/join-curedao) to tell us about your interests or project and we'll get in touch with you.
+Click 👉👉👉 [here](https://www.curedao.org/join-us) to tell us about your interests or project and we'll get in touch with you.
 {% endhint %}
 
 One billion people are suffering from chronic conditions without knowing the root causes and most effective solutions.
 
-* depression
-* bipolar disorder
-* fibromyalgia
-* many others
+* Depression
+* Bipolar disorder
+* Fibromyalgia
+* Many others
 
 Clinical research and diagnosis are too
 
-1. expensive
-2. slow
-3. imprecise
+1. Expensive
+2. Slow
+3. Imprecise
 
 CureDAO is going to change this.
 
@@ -49,9 +48,9 @@ Together, we have an enormous opportunity to dramatically accelerate the pace of
 
 ### About us
 
-Our goal is to make the healthcare experience better for patients and doctors—to increase transparency, lower costs, and improve outcomes. It’s a big challenge, and we hire people who aren’t afraid to take on audacious projects.
+Our goal is to make the healthcare experience better for patients and doctors to increase transparency, lower costs, and improve outcomes. It’s a big challenge, and we hire people who aren’t afraid to take on audacious projects.
 
-We’re proud of fostering a culture where clarity of thought and openness are paramount. We believe in collaboration, respect, and curiosity. Everyone’s input is valued, be it about code, data models, business models, or product ideas
+We’re proud of fostering a culture where clarity of thought and openness are paramount. We believe in collaboration, respect, and curiosity. Everyone’s input is valued, be it about code, data models, business models, or product ideas.
 
 We're working to usher in an era of personalized preventative medicine through crowd-sourced clinical research by providing a new secure platform capable of aggregating massive amounts of heterogeneous life-tracking data.
 
