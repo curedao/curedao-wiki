@@ -1,8 +1,8 @@
 ---
-title: api-developer
+title: PHP Developer
 description: 
 published: true
-date: 2022-07-27T21:35:52.797Z
+date: 2022-08-30T13:27:15.261Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:35:49.380Z
@@ -10,19 +10,47 @@ dateCreated: 2022-07-27T21:35:49.380Z
 
 # PHP Developer
 
-You are comfortable at all points in the typical PHP/MySQL/Nginx stack. You are a builder and API fanatic. You have a full understanding of all major authentication and authorization schemes.
+CureDAO is a DAO helping create personalized precision medicine of the future by establishing an open-source platform for health data.
 
-Primary Goal: Help CureDAO to acquire, integrate, and normalize heterogeneous data from even more of the most popular life-tracking devices and services.\
-Establish a research commons to anonymously pool data in stratified user groups and share discoveries.
+## Benefits
+- $46/hour or $102k/year
+- Partake in governance decisions
+- Flexible remote work hours
 
-Approach:
+## Responsibilities
+- Build screen scrapers, spreadsheet upload/import modules, and connector modules to pull data from existing third-party APIs
+- Improve CureDAO SDKs for various frameworks
+- Create documentation for integrations with various frameworks
+- Support other developers to integrate with the project
+- Grow the open-source developer community
+- Manage Docker-based CI/CD platform
+- Write unit and integration tests
 
-You will build screen scrapers, spreadsheet upload/import modules, and connector modules to pull data from existing third-party APIs.
 
-Impact:
+## Should have experience with:
+- Docker
+- PHPStorm
+- Xdebug
+- Shell Scripting
+- Ubuntu
+- Software Documentation
+- AWS and/or Google Cloud Platform
+- Laravel
+- WordPress Development
+- MySQL
+- Nginx
+- OAuth API Integration
+- Major authentication and authorization schemes
 
-An increase in the quantity of data will produce a proportional increase in the number of clinical discoveries made.
 
-{% hint style="info" %}
-Click 👉👉👉 [here](https://notionforms.io/forms/join-curedao) to tell us about your interests or project and we'll get in touch with you.
-{% endhint %}
+If you are an API developer interested in DAOs, the web3 space, and minimizing suffering in the universe, please tell us about yourself!
+
+
+Then check out our website or read our enthralling 📜 [manifesto](https://wiki.curedao.org/)!
+
+❓ Still not convinced? Feel free to ask a question on [Discord](https://discord.com/invite/WtnzBuVkXa!)
+
+We can't wait to meet you!
+
+
+Click 👉👉👉 [here](https://www.curedao.org/join-us) to tell us about your interests or project and we'll get in touch with you as soon as possible.
