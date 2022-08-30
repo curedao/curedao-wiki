@@ -2,7 +2,7 @@
 title: android-developer
 description: 
 published: true
-date: 2022-08-30T13:05:15.232Z
+date: 2022-08-30T13:27:03.677Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:35:44.810Z
@@ -38,10 +38,10 @@ Not convinced yet?
 
 Then check out our website or read our enthralling 📜 [manifesto](https://wiki.curedao.org/)!
 
-❓ Still not convinced? Ask a question on [Discord](https://discord.com/invite/WtnzBuVkXa!)
+❓ Still not convinced? Feel free to ask a question on [Discord](https://discord.com/invite/WtnzBuVkXa!)
 
 We can't wait to meet you!
 
 
-Click 👉👉👉 [here](https://www.curedao.org/join-us) to tell us about your interests or project and we'll get in touch with you.
+Click 👉👉👉 [here](https://www.curedao.org/join-us) to tell us about your interests or project and we'll get in touch with you as soon as possible.
 {% endhint %}
