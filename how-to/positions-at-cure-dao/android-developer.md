@@ -2,7 +2,7 @@
 title: android-developer
 description: 
 published: true
-date: 2022-08-30T13:27:03.677Z
+date: 2022-08-30T15:22:07.801Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:35:44.810Z
@@ -18,7 +18,7 @@ A share of 10% of the total outstanding CureDAO tokens, proportional to your hou
 
 Based on comparable health DAO launches, this would likely lead to far greater compensation than your standard rate.
 
-### Other benefits include:
+### Other benefits include
 - Partake in governance decisions
 - Flexible remote work hours 
 
@@ -34,14 +34,11 @@ Based on comparable health DAO launches, this would likely lead to far greater c
 - Passionate about our vision
 
 If you are an Android Developer interested in DAOs, the web3 space, and minimizing suffering in the universe, please tell us about yourself!
-Not convinced yet? 
 
-Then check out our website or read our enthralling 📜 [manifesto](https://wiki.curedao.org/)!
+Not convinced yet? Then check out our website or read our enthralling 📜 [manifesto](https://wiki.curedao.org/)!
 
 ❓ Still not convinced? Feel free to ask a question on [Discord](https://discord.com/invite/WtnzBuVkXa!)
 
 We can't wait to meet you!
 
-
 Click 👉👉👉 [here](https://www.curedao.org/join-us) to tell us about your interests or project and we'll get in touch with you as soon as possible.
-{% endhint %}
