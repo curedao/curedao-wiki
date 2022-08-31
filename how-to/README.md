@@ -1,18 +1,14 @@
 ---
-title: README
+title: How To Get Involved
 description: Learn how you can join and participate CureDAO
 published: true
-date: 2022-07-27T21:21:35.564Z
+date: 2022-08-31T14:49:35.271Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:21:32.129Z
 ---
 
 # ❓ How To Get Involved
-
-{% hint style="info" %}
-Click 👉👉👉 [here](https://notionforms.io/forms/join-curedao) to tell us about your interests or project and we'll get in touch with you.
-{% endhint %}
 
 CureDAO is open to anyone interested in preventing suffering and death from chronic diseases and degenerative diseases. Our success in this mission will be an exponential function of the participation of people like you. 🚀
 
@@ -27,22 +23,11 @@ Creating a new ecosystem for health data not only requires developers, but anyon
 * Medicine
 * Data science
 
-Our main philosophy is: It's not what you CAN do, but what do you WANT to do is what counts.
+Our philosophy is: 
+It's not about what you CAN do, but what you WANT to do.
 
-Click 👉👉👉 [here](https://notionforms.io/forms/join-curedao) to tell us about your interests or project.
+You can learn more about our positions [here](https://wiki.curedao.org/en/how-to/positions-at-cure-dao/README) and help to create a world free of unnecessary suffering.
 
-You can join one of our [Laboratories](../constitution/5-organization.md) and help to create a world free of unnecessary suffering.
+💬 Join Our Discord [Here](https://discord.com/invite/WtnzBuVkXa)
 
-💬 [Join Our Discord Channel](https://discord.com/invite/metKYrPuym)
-
-🔨 [Work on an Open Issue](https://github.com/cure-dao/draft-whitepaper/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
-
-☎️ [Schedule a Call](https://calendly.com/optomitron)
-
-📜 [Add to or edit the constitution](contribute-to-docs/)
-
-👍 [Help to prioritize tasks](task-management/vote-on-tasks-and-sort-by-priority.md)
-
-## FAQ
-
-👉 [How can I track my time?](task-management/tracking-time-on-tasks.md)
+Click 👉👉👉 [here](https://www.curedao.org/join-us) to tell us about your interests or project and we will get in touch with you as soon as possible.
