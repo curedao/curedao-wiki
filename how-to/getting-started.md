@@ -1,8 +1,8 @@
 ---
 title: getting-started
 description: 
-published: true
-date: 2022-07-27T21:21:58.913Z
+published: false
+date: 2022-08-31T16:32:32.212Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T20:32:33.835Z
@@ -11,6 +11,7 @@ dateCreated: 2022-07-27T20:32:33.835Z
 # How to Get Started
 
 * [Add to or edit the constitution](edit-files-in-the-browser.md)
+
 * Decide what goes in the constitution by voting thumbs up 👍 or down 👎 or provide feedback 💬 on changes in the [Pull Requests Tab](https://github.com/anonymous-dao/draft-whitepaper/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc)
 * [Help to prioritize tasks](vote-on-tasks-and-sort-by-priority.md)
 
