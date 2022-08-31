@@ -2,7 +2,7 @@
 title: php-developer
 description: 
 published: true
-date: 2022-08-30T13:33:03.197Z
+date: 2022-08-31T13:20:39.766Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:35:49.380Z
@@ -45,8 +45,7 @@ CureDAO is a DAO helping create personalized precision medicine of the future by
 
 If you are an API developer interested in DAOs, the web3 space, and minimizing suffering in the universe, please tell us about yourself!
 
-
-Then check out our website or read our enthralling 📜 [manifesto](https://wiki.curedao.org/)!
+Not convinced yet? Then check out our website or read our enthralling 📜 [manifesto](https://wiki.curedao.org/)!
 
 ❓ Still not convinced? Feel free to ask a question on [Discord](https://discord.com/invite/WtnzBuVkXa!)
 
