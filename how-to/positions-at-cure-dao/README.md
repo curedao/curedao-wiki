@@ -2,16 +2,13 @@
 title: README
 description: We need you!
 published: true
-date: 2022-08-29T19:28:01.740Z
+date: 2022-08-31T13:58:59.793Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:35:39.478Z
 ---
 
 # 👷 Positions At CureDAO
-
-Click 👉👉👉 [here](https://www.curedao.org/join-us) to tell us about your interests or project and we'll get in touch with you.
-{% endhint %}
 
 One billion people are suffering from chronic conditions without knowing the root causes and most effective solutions.
 
@@ -32,21 +29,7 @@ Recent technological advances have produced a torrent of data on all aspects of 
 
 Together, we have an enormous opportunity to dramatically accelerate the pace of clinical research and reduce suffering worldwide.
 
-### [Android Developer](android-developer.md)
-
-### [API Developer](api-developer.md)
-
-### [Data Scientist](data-scientist.md)
-
-### [Dev Ops](dev-ops.md)
-
-### [Front-End Designer/Developer](front-end-designer-developer.md)
-
-### [Product Management and Design](product-management-and-design.md)
-
-### [Public Relations](public-relations.md)
-
-### About us
+## About us
 
 Our goal is to make the healthcare experience better for patients and doctors to increase transparency, lower costs, and improve outcomes. It’s a big challenge, and we hire people who aren’t afraid to take on audacious projects.
 
@@ -61,3 +44,7 @@ Furthermore, we will give researchers the ability to run and publish large-scale
 We believe that with the right tools, you can have 10x the impact with less work.
 
 We believe that credentials are not needed. What you love doing is way more important than the credentials you have.
+
+Click 👉👉👉 [here](https://www.curedao.org/join-us) to tell us about your interests or project and we'll get in touch with you as soon as possible.
+
+P.S. You can also discover our most needed positions on the pages below this one.
