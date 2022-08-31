@@ -2,7 +2,7 @@
 title: writing-style-guide
 description: 
 published: true
-date: 2022-07-27T21:22:12.932Z
+date: 2022-08-31T17:22:57.241Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T20:32:56.811Z
@@ -10,19 +10,16 @@ dateCreated: 2022-07-27T20:32:56.811Z
 
 ## General principles
 
-* **Accessibility:** Content should always be written in a way that is both scientifically accurate and at the same 
-  time understandable by the layperson. It is important to note that, according to analytics, **66% of users are 
-  mobile users,** so content should be optimized for mobile use.
-* **Neutrality**: Remove all of your personal views on the topic when writing an article. Extensively consult 
-  dictionaries, thesauri, Google, Wikipedia, and similar PW substance pages to get an idea of how information should be formatted and presented. Stick with the facts that are obtainable from the scientific and anecdotal literature.
+* **Accessibility:** Content should always be written in a way that is both scientifically accurate and at the same time understandable by the layperson. It is important to note that, according to analytics, **66% of users are mobile users,** so content should be optimized for mobile use.
+* **Neutrality**: Remove all of your personal views on the topic when writing an article. Extensively consult dictionaries, thesauri, Google, Wikipedia, and similar PW substance pages to get an idea of how information should be formatted and presented. Stick with the facts that are obtainable from the scientific and anecdotal literature.
 * **Word economy**: Do your best not to use any unnecessary space -- always try to aim for clarity and succinctness. Avoid including unnecessarily long sentences, paragraphs, and digressions. Focus on the vital information, and then re-read it to see if you can word it in a way that saves space or makes it easier to digest.
-* **Readability**: Readability is the ease with which a reader can understand a written text. Due to the nature of the modern attention span, the way the text is structured is vital. This mostly comes in the form of simple, concise sentences and properly spaced paragraphs. Nothing gets people to disengage faster than a wall of text in poetic or abstract language.
+* **Readability**: Readability is the ease with, which a reader can understand a written text. Due to the nature of the modern attention span, the way the text is structured is vital. This mostly comes in the form of simple, concise sentences and properly spaced paragraphs. Nothing gets people to disengage faster than a wall of text in poetic or abstract language.
 * A typical paragraph should be roughly four simple sentences in length. Use three if they are more complex sentences with long dependent clauses (parts of a sentence that cannot stand alone). It is acceptable sometimes to use shorter paragraphs if they express a self-contained thought.
 * Minimize the use of dependent clauses or chains of independent clauses in a single sentence. Err on the side of sentence breaks, even if it may sound a little stuttery.
 
 **Example:** Instead of using "In various studies, X has been shown to cause Y effect in some users, and this effect has been linked to various psychiatric conditions, as well as other negative effects on bodily organs." **use** "Various studies have shown that X causes Y effect in some users. This effect has been linked to various psychiatric conditions as well as other adverse effects on bodily organs."
 
-* **Tone**: The tone for all articles on this wiki should be encyclopedic: formal, impersonal, and objective. For inspiration, please refer to encyclopedias like [Encyclopedia Britannica](https://www.britannica.com/), [Encyclopedia.com](https://www.encyclopedia.com/), and to a lesser extent, [Wikipedia](http://www.wikipedia.org/).
+* **Tone**: The tone for all articles on this wiki should be encyclopedic: formal, impersonal, and objective. For inspiration, please refer to encyclopedias like [Encyclopedia](https://www.encyclopedia.com/) [Britannica](https://www.britannica.com/), and to a lesser extent, [Wikipedia](http://www.wikipedia.org/).
 
 ## Writing style
 
