@@ -2,7 +2,7 @@
 title: 💡 CureDAO Wiki
 description: 
 published: true
-date: 2022-09-03T16:22:25.964Z
+date: 2022-09-03T17:32:53.634Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-28T02:01:12.458Z
@@ -362,14 +362,14 @@ Since CureDAO's genesis operates via a public auction, the community decides the
 
 CureDAO generates revenue streams to compensate IP and data contributors and sustain and grow the project. The biotech and pharmaceutical industries are two of the fastest-growing sectors of the U.S. economy.
 
-![sector-growth](assets/charts/sector-growth-chart.png)
+![sector-growth-chart.png](/sector-growth-chart.png)
 
 These factors all point to a massive potential for the revenue necessary to sustain this project.
 The primary sources of income include:
 
-1. Sale of high-frequency longitudinal de-identified data to
-   1. pharma for drug discovery
-   2. research institutions for funded studies
+1. Sale of high-frequency longitudinal de-identified data to:
+   1. Parma for drug discovery
+   2. Rsearch institutions for funded studies
 2. Grants from governments modernizing their programs to take advantage of real-world data
 3. Digital health companies wishing to accelerate product development using existing white-label software or hosted software-as-a-service (SaaS) options
 
@@ -396,7 +396,7 @@ CureDAO will utilize an unincorporated nonprofit association (UNA) as a 'wrapper
 
 CureDAO will use deidentification and obfuscated but equivalent data synthetically derived from actual patient data to protect privacy.
 
-![de-identification](assets/privacy/deidentification.png)
+![de-identification.png](/de-identification.png)
 
 ### De-identification Methods
 
@@ -419,63 +419,55 @@ The [deid software package](https://archive.physionet.org/physiotools/deid/) inc
 
 ## 🚗 Roadmap
 
-### Q1/2022 Build the DAO
+### Q4/2022
 
-* Define collaborators and partners, health data tech
-* Setup DAO architecture and infrastructure
-* Build community
-* Fundraising phase (Genesis)
+* Establish a legal entity
+- Apply for SBIR, other grants, & fundraising
+- Mint $CURED tokens that are available via a fair and public auction
+- Automate token compensation
+- Bounties for security issues and bugs
+- Better Documentation of the SDKs and API
+- Developer Support for the Various Languages
 
-### Q2/2022 Minimal Viable Product (MVP)
 
-* Collaborators vote for core features
-* Build MVP alongside use in showcase trial
-* Internal testing with collaborators
-* Release V1 of the Software Framework
-* Open testing with partners
+### Q1/2023
 
-### Q3/2022 Integration and Testing
+- Plugin Framework
+- GUI Data Mapper to Add New Data Import and Export Formats
+- Example integrations/projects in all languages
+- Support OpenCures and AgelessRX in a Clinical Trial for Rapamycin
+- Billing mechanism to charge tokens for usage
 
-* Integrate with other tech architecture (storage providers, data marketplaces, analysis software, etc. )
-* Integrate with operating health data standards and Electronic Health Record
-* Build showcase plugins
-* Release V2 of the Software Framework
+### Q2/2023
 
-### Q4/2022 Applications pilots
-
-* Open shared health database for research access
-* Trials platform with participation royalty payback
-* User-centered health management
-* Algorithm and scores development
-* Data marketplaces
-
-### Q1/2023 SaaS Business, Plugins, Education
-
-* Create plugin marketplace
-* Create a No-code platform for instances/connectors
-* Build hosted SaaS service
-* Create documentation and education material
-* Promote broader usage
+- Partnerships with as many of the 350k digital health apps as possible
+- Support Lifespan.io in a Clinical Trial for Alzheimer's
+- Reference Data Search and Wiki for the curation of variable data links/documentation
+- Additional data importers
+- Federated learning, homomorphic encryption, or decentralized data storage
 
 # Read The Full Whitepaper
 
-1. [Introduction and Challenges](constitution/1-introduction-and-challenges.md)
-2. [Solution](constitution/2-solution.md)
-3. [Platform](constitution/3-platform.md)
-4. [Incentivization](constitution/4-incentivization.md)
-5. [Organization](constitution/5-organization.md)
-6. [Tokenomics](constitution/6-tokenomics.md)
-7. [Revenue](constitution/7-revenue.md)
-8. [Legal Framework](constitution/8-legal-framework.md)
-9. [Privacy](constitution/9-privacy.md)
-10. [Ecosystem](constitution/10-ecosystem.md)
-11. [Roadmap](constitution/11-roadmap.md)
-12. [References](constitution/12-references.md)
+1. [Introduction and Challenges](chttps://wiki.curedao.org/en/whitepaper/1-introduction-and-challenges)
+2. [Solution](https://wiki.curedao.org/en/whitepaper/02-solution)
+3. [Platform](https://wiki.curedao.org/en/whitepaper/3-platform)
+4. [Incentivization](https://wiki.curedao.org/en/whitepaper/4-incentivization)
+5. [Organization](https://wiki.curedao.org/en/whitepaper/5-organization)
+6. [Tokenomics](https://wiki.curedao.org/en/whitepaper/6-tokenomics)
+7. [Revenue](https://wiki.curedao.org/en/whitepaper/7-revenue)
+8. [Legal Framework](https://wiki.curedao.org/en/whitepaper/8-legal-framework)
+9. [Ecosystem](https://wiki.curedao.org/en/whitepaper/9-ecosystem)
+10. [Data Security](https://wiki.curedao.org/en/whitepaper/10-data-security)
+11. [Roadmap](https://wiki.curedao.org/en/whitepaper/11-roadmap)
+12. [Privacy](https://wiki.curedao.org/en/whitepaper/12-privacy)  
+13. [Gamfication](https://wiki.curedao.org/en/whitepaper/13-gamification) 
+14. [Disclaimer](https://wiki.curedao.org/en/whitepaper/14-disclaimer) 
+15. [References](https://wiki.curedao.org/en/whitepaper/15-references) 
 
-## You're still here?
+## Oh, you are still here?
 
-My boy. You've won the chocolate factory! You did it! You did it! I knew you would! I just knew you would!
+Congratulations! You've won the chocolate factory! You did it! You did it! I knew you would! I just knew you would!
 
-**👉** [**Just click this link and CureDAO is all yours!**](https://info.curedao.org/join-us)
+**👉** [**Just click this link and CureDAO is all yours!**](https://curedao.org/join-us)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
