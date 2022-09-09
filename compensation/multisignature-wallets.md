@@ -2,7 +2,7 @@
 title: Multisignature Wallets
 description: Accounts you can steal all our tokens
 published: true
-date: 2022-09-09T07:51:36.749Z
+date: 2022-09-09T13:26:58.688Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:24:19.613Z
@@ -23,6 +23,9 @@ Our new founders' tokens are called "PCUREDAO" and all GCURES founders' tokens, 
 
 * **Polygon (MATIC)** – 0x2007288C1D35cf8674514ed4860b8Adfa0F0349c
 [Polygon Multi-Sig](https://gnosis-safe.io/app/matic:0x2007288C1D35cf8674514ed4860b8Adfa0F0349c/balances)
+
+*Multi-sig address book:*
+[gnosis-safe-address-book-2022-08-14_(2).csv](/gnosis-safe-address-book-2022-08-14_(2).csv)
 
 * **Ethereum (ETH)** - 0x2007288C1D35cf8674514ed4860b8Adfa0F0349c
 [Ethereum Multi-Sig](https://gnosis-safe.io/app/eth:0x2007288C1D35cf8674514ed4860b8Adfa0F0349c/balances)
