@@ -2,7 +2,7 @@
 title: Aragon DAO Accounting
 description: You can see the token balances for all the DAO members on Aragon.
 published: true
-date: 2022-09-09T07:49:55.666Z
+date: 2022-09-09T07:50:43.983Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:24:09.524Z
