@@ -2,7 +2,7 @@
 title: Our Tokens
 description: $GCURES Founder's Tokens are awarded for completing quests and contributing to experiments.
 published: true
-date: 2022-09-09T07:09:09.792Z
+date: 2022-09-09T07:12:46.739Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:21:51.057Z
@@ -25,7 +25,6 @@ VitaDAO used the same approach as us, with 10% of their tokens distributed to th
 The price went up more than 300% over several months following the launch. 
 Based on the VITA price, this equates to more than $500k for each pre-genesis contributor for 6 months of part-time work
 
-
 ## How to add PCUREDAO to your wallet
 
 ### Step 1 - Install Metamask with the Polygon Chain
@@ -35,5 +34,3 @@ https://www.followchain.org/add-polygon-to-metamask/
 ### Step 2 - Add the PCUREDAO token to Metamask
 Click "Import tokens" and add the token address:
 0x5040f58BA6A9804bc085650f796E2c118EbE2EeB
-
-![pcuredao metamask.png](/pcuredao metamask.png)
