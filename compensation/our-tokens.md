@@ -1,8 +1,8 @@
 ---
-title: get-tokens
+title: Our Tokens
 description: $GCURES Founder's Tokens are awarded for completing quests and contributing to experiments.
 published: true
-date: 2022-08-31T16:26:01.960Z
+date: 2022-09-09T07:07:51.288Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:21:51.057Z
