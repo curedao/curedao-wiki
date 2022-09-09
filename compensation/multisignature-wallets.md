@@ -2,7 +2,7 @@
 title: Multisignature Wallets
 description: Accounts you can steal all our tokens
 published: true
-date: 2022-09-09T13:28:54.606Z
+date: 2022-09-09T17:12:55.032Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:24:19.613Z
