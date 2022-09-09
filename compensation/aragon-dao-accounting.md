@@ -2,7 +2,7 @@
 title: Aragon DAO Accounting
 description: You can see the token balances for all the DAO members on Aragon.
 published: true
-date: 2022-09-09T07:50:43.983Z
+date: 2022-09-09T09:37:45.767Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:24:09.524Z
@@ -17,7 +17,17 @@ dateCreated: 2022-07-27T21:24:09.524Z
 5. Type `pcuredao` in Find Existing Org
 6. Let it sync for a long time
 
+## Address Labels
+Click below to import address labels.  
+
+If you add more, go to https://client.aragon.org/#/curedao/0xc135d5c1ac3df46ccc46d06c8035709585c11e81/?preferences=/custom-labels
+
+Export and replace the file below:
+
+[aragon-labels_curedao.aragonid.eth_2022-06-01_(1).json](/aragon-labels_curedao.aragonid.eth_2022-06-01_(1).json)
+
 A few comments on Aragon:
 1. For some reason, there are quite a few issues  load Aragon on Chrome.  However, it generally works on Mozilla Firefox.
 2. Also, the first time you load the Aragon organization on a new browser, it may take up to 1 hour to load.
+
 
