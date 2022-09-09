@@ -2,7 +2,7 @@
 title: Our Tokens
 description: $GCURES Founder's Tokens are awarded for completing quests and contributing to experiments.
 published: true
-date: 2022-09-09T07:07:51.288Z
+date: 2022-09-09T07:09:09.792Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:21:51.057Z
@@ -35,3 +35,5 @@ https://www.followchain.org/add-polygon-to-metamask/
 ### Step 2 - Add the PCUREDAO token to Metamask
 Click "Import tokens" and add the token address:
 0x5040f58BA6A9804bc085650f796E2c118EbE2EeB
+
+![pcuredao metamask.png](/pcuredao metamask.png)
