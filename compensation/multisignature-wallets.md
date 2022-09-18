@@ -1,14 +1,14 @@
 ---
-title: Multisignature Wallets
+title: 🔓 Multisignature Wallets
 description: Accounts you can steal all our tokens
 published: true
-date: 2022-09-09T17:12:55.032Z
+date: 2022-09-18T22:04:54.473Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T21:24:19.613Z
 ---
 
-# 🔓 Multisignature Wallets
+
 
 ## MultiSignature Addresses
 
