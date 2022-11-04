@@ -2,7 +2,7 @@
 title: 💡 CureDAO Wiki
 description: 
 published: true
-date: 2022-09-04T15:13:38.924Z
+date: 2022-11-04T22:28:58.682Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-28T02:01:12.458Z
@@ -342,35 +342,16 @@ Accordingly, the organization is composed of three primary components.
 2. DAO Laboratories - Internal working groups that carry out the Citizen Scientists' wishes
 3. External Service Providers - Individuals or entities outside the DAO deemed necessary to carry out the Citizen Scientists' wishes
 
-# Tokenomics
-
-The CureDAO governance token is used to incentivize data sharing and open-source collaboration. 
-Tokens are obtained by contributing work, data, IP, or funds to CureDAO.
-
-Tokens grant CureDAO Citizen Scientists the right to decide how the DAO's resources are distributed.
-
-### Token Genesis
-
-The goal of CureDAO is for every human on earth to share the natural experiments that define their existence. The world's population is projected to peak at 9.4 billion around 2070. To enable everyone to become a Citizen Scientist, 9.4 billion CureDAO tokens will be created.
-
-The genesis distribution event will make 10% of CureDAO's total token supply available to interested participants using a fair and open smart contract auction.
-
-![token_distribution.png](/token_distribution.png)
-
-Since CureDAO's genesis operates via a public auction, the community decides the initial token price. We estimate a minimum of $5,000,000 will be required to support the first iteration of the platform.
-
-# 💰 Revenue
+# 💰 Sustainable Revenue
 
 CureDAO generates revenue streams to compensate IP and data contributors and sustain and grow the project. The biotech and pharmaceutical industries are two of the fastest-growing sectors of the U.S. economy.
-
-![sector-growth-chart.png](/sector-growth-chart.png)
 
 These factors all point to a massive potential for the revenue necessary to sustain this project.
 The primary sources of income include:
 
 1. Sale of high-frequency longitudinal de-identified data to:
-   1. Parma for drug discovery
-   2. Rsearch institutions for funded studies
+   1. Pharma for drug discovery
+   2. Research institutions for funded studies
 2. Grants from governments modernizing their programs to take advantage of real-world data
 3. Digital health companies wishing to accelerate product development using existing white-label software or hosted software-as-a-service (SaaS) options
 
