@@ -2,7 +2,7 @@
 title: 💡 CureDAO Wiki
 description: 
 published: true
-date: 2022-11-04T22:28:58.682Z
+date: 2022-11-04T22:32:37.510Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-28T02:01:12.458Z
@@ -31,7 +31,7 @@ Our hypothesis (and dream) is that this new system can accelerate the rate of cl
 
 But we can't realize this dream without you!
 
-### **👉** [**Join Us Right Now!**](https://curedao.org/join-us)
+**👉** [**Join Us Right Now!**](https://curedao.org/join-us)
 
 Hmm. You're still here, so I guess you're not convinced. 😕 Then venture on, dear reader!
 
@@ -64,25 +64,6 @@ It consists of two primary components:
 
 Our novel incentive structure overcomes the traditional collaboration and data sharing barriers by encoding contributions through non-fungible tokens (NFTs). 
 Using smart contracts, the platform will compensate all contributors with royalties.
-
-## Hey, you! 👀
-
-Our community is open to anyone interested in accelerating precision health and new discoveries.
-The success of CureDAO is dependent on the participation of people like you. 🚀
-
-Surely, you've been persuaded by now, after seeing all those exciting diagrams?
-
-**👉** [**Join Us Right Now!**](https://www.curedao.org/join-us)
-
-What?!? You're still reading? Didn't you see that pointy hand icon? That means click it!
-
-Fine. Have it your way.
-
-Then you can read our Litepaper. 
-But I'm warning you. 
-It's just a string of alphanumeric characters arranged in arbitrary patterns according to rules some British guy randomly came up with a long time ago.
-
-# Litepaper
 
 
 ## Problem: You and Everyone You Love Will Suffer and Die
