@@ -2,14 +2,11 @@
 title: 💡 CureDAO
 description: A global alliance to discover how millions of factors like foods, drugs, and supplements affect human health.
 published: true
-date: 2022-11-04T22:34:34.402Z
+date: 2022-11-04T22:34:45.255Z
 tags: curedao, litepaper, overview
 editor: markdown
 dateCreated: 2022-07-28T02:01:12.458Z
 ---
-
-# TL;DR
-**
 
 **Question:** How can we have a massive explosion in health data and digital health technology and have no improvement in lifespan or reduction in costs?&#x20;
 
