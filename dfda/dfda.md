@@ -2,13 +2,11 @@
 title: The Decentralized FDA
 description: A platonic ideal for the regulation of food and drugs.
 published: true
-date: 2022-11-04T23:10:39.282Z
+date: 2022-11-05T02:07:32.453Z
 tags: dfda, fda, regulation
 editor: markdown
 dateCreated: 2022-11-04T23:10:39.282Z
 ---
-
-# The Decentralized FDA
 
 ## Mandate
 Maximimize average healthy human lifespan by identifying  discovering and disemminating the effects of every food, additive, supplement, and medical intervention while minimizing costs to consumers.
