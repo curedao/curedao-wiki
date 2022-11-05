@@ -2,7 +2,7 @@
 title: DeSci Exchange
 description: A Free Market for Accelerating Scientific Discovery
 published: true
-date: 2022-11-05T02:53:10.600Z
+date: 2022-11-05T02:54:03.172Z
 tags: projects, github
 editor: markdown
 dateCreated: 2022-11-05T02:49:24.504Z
@@ -80,3 +80,5 @@ They can be mined by the data owner and can be given or sold to other Analog Twi
 - Hone risk adjustment factor calculations by linking claims to social determinant's data, to properly estimate the true
   cost of patient care
 
+# Links
+ - https://github.com/curedao/desci-exchange
