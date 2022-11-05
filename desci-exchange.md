@@ -2,7 +2,7 @@
 title: DeSci Exchange
 description: A Free Market for Accelerating Scientific Discovery
 published: true
-date: 2022-11-05T02:49:24.504Z
+date: 2022-11-05T02:53:10.600Z
 tags: projects, github
 editor: markdown
 dateCreated: 2022-11-05T02:49:24.504Z
@@ -28,7 +28,7 @@ The Digital Twin Skeleton Key NFT is a soul-bound NFT that can only be minted if
 
 This key gives you the ability to mint [Data Gem Data Access NFTs](../data-gem/README.md) using your imported data.
 
-### Life Force Score
+## Life Force Score
 
 The attached avatar image and Life Force Score metadata are updated daily based on their imported data performing
 healthy activities, such as having a good sleep schedule, hydrating, and exercising.
@@ -51,29 +51,29 @@ They can be mined by the data owner and can be given or sold to other Analog Twi
 [CONTRACTS AND MORE INFO ABOUT DATA GEMS](packages/desci-exchange/contracts/data-gem/README.md)
 
 
-## Benefits
+# Benefits
 
-### For Individuals
+## For Individuals
 
 - eBay for health data - You can earn magic internet money by selling your data regarding symptoms, treatments, and
   factors to pharmaceutical companies, insurance companies, and other data buyers
 - Control access and use of your data through fine-grained permissions
 - Continuously monitor and audit the data you provide to other organizations
 
-### For Health Apps
+## For Health Apps
 
 - Connected real-world data yields better insights for your users
 - Apps that embed the exchange in their app earn a 0.5% transaction fee for each data sale
 - Connect to third-party sources to enrich your data, or easily connect to a user's existing data
 
-### For Pharmaceutical Companies
+## For Pharmaceutical Companies
 
 - Conduct long-term safety and effectiveness studies by linking their clinical trial data to medical claims and
   electronic health record data
 - Refine models for finding rare disease patients by linking diagnostic lab, genomic, and imaging data
 - Discover new therapeutic candidates with connected data
 
-### For Insurers
+## For Insurers
 
 - Improve value-based care analytics and sharpen total cost of care estimates by linking to EHR and clinical data
 - Connect to the nation's largest ecosystem of health data
