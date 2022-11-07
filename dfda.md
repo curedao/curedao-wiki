@@ -2,7 +2,7 @@
 title: The Decentralized FDA
 description: A platonic ideal for the regulation of food and drugs.
 published: true
-date: 2022-11-07T21:35:40.379Z
+date: 2022-11-07T23:02:50.343Z
 tags: dfda, fda, regulation
 editor: markdown
 dateCreated: 2022-11-04T23:10:39.282Z
@@ -23,11 +23,237 @@ The Decentralized FDA is meant to act as a regulatory template or platonic ideal
 3. Evidence of the success of this model will make it possible to promote adoption by other micro-nations.
 4. Evidence of the success of this model will make it possible to promote adoption by increasingly larger states.
 
-## Objective:  Increase Access to Healing 
+## Functions and Components
+1. **Comparative Policy Analysis** - Aggregate existing approval and certification data from existing national regulatory bodies
+2. **Food and Drug Outcome Labels** - Aggregate and analyze real-world data (RWD) to create Outcome Labels subject to Futarchical-weighted review by the board members of the dFDA
+3. **Publish Meta-Analyses** - Generate meta-analyses from all completed studies at ClinicalTrials.gov
+4. **DeSci Exchange** - A free market for personal data in the form of an embeddable SDK with a configurable transaction fee for the apps embedding it. 
+5. **Human File System Protocol and SDK** - A standard protocol for personal data exchange betweeen studies, apps and devices. 
+6. **Digital Twin Safe** - A tool for self-sovereign storage of personal data that enables effortless data sharing with clinical safety and efficacy studies.
+
+## Objective:  Accerelerate Clinical Discovery
 
 - Elevate the most promising yet little known/researched treatments
 - Issue certifications for the Decentralized Science web-of-trust
 - Provide an API for building trust worthy alternatives to conventional health markets
+
+
+## Outcome Labels
+
+Ultimately, the most useful output of a decentralized FDA would be **Outcomes Label** that list the degree to which the product is likely to improve or worsen specific health outcomes or symptoms.
+
+![outcome-labels-plugin.png](/assets/outcome-labels.PNG)
+
+## Data Storage and Sharing
+
+![human-file-system-banner-logo](https://user-images.githubusercontent.com/2808553/180306571-ac9cc741-6f34-4059-a814-6f8a72ed8322.png)
+
+Import data from all your apps and wearables so you can centrally own, control, and share all your digital exhaust.
+
+Available on the Polygon chain at [humanfs.io](https://humanfs.io) and on [Github](https://github.com/curedao/digital-twin-safe). 
+
+Based on the awesome [Gnosis Safe](https://gnosis-safe.io/), the most trusted platform to store digital assets.
+
+
+## The Human File System Protocol SDK
+
+**A Simple API for Patient-Controlled Health Data Aggregation, Sharing, and Monetization**
+
+The Human File System Collective Superteam DAO is a collective of separate HackFS teams cooperating to accelerating clinical discovery and reduce suffering.
+
+Together, we are creating a set of interoperable software libraries that can be used independently to create user-accesss controlled digital twins on the blockchain.
+
+The libaries can be used independently, but will all be included in the HumanFS SDK.
+
+### The Need for a Human File System Protocol
+
+There are 350k health apps containing various types of symptom and factor data.  However, the isolated data's relatively useless in all these silos. In order to make clinical discoveries, all the factor data needs to be combined with the outcome data.
+
+**Web2 Problem**
+
+The web2 solution to combining all this data is a nightmare of
+
+1. creating thousands of OAuth2 data connectors
+2. running a bunch of importer cron jobs on AWS.
+
+**Web3 Solution**
+
+User auth/databases/key management/access control/3rd party OAuth tokens abstracted away by a single, easy-to-use API
+
+i.e.
+
+Pain Tracking App A:
+
+`db.collections.create('Arthritis Severity', timeSeriesData);`
+
+Diet-Tracking App B:
+
+`let timeSeriesData = db.collections.get('Arthritis Severity');`
+
+⇒ Making it possible for Diet-Tracking App B (and/or Pain Tracking App A) to easily analyze the relationship between dietary factors and Arthritis Severity using causal inference predictive model control recurrent neural networks.
+
+## Overview
+
+![digital-twin-safe-screenshot-home](https://user-images.githubusercontent.com/2808553/200402565-72bc85a3-deb2-4f1a-a9b1-bde108e63d87.png)
+
+## Variables
+
+![digital-twin-safe-screenshot-variables](https://user-images.githubusercontent.com/2808553/200402422-41213d62-324d-44db-a725-fc0eab619e45.png)
+
+### Data Sources
+
+![digital-twin-safe-screenshot-data-sources](https://user-images.githubusercontent.com/2808553/200402625-8c4ab0b1-829c-4128-8b12-509c2f885b96.png)
+
+# 📚 Libraries Used
+
+[Data Storage, Authorization and Sharing](https://github.com/yash-deore/sshr-hackfs) - Lit Programmable Key Pairs (PKPs) for access control over protected health information (PHI) with data storage on Ceramic. XMTP (Extensible Message Transport Protocol) is an open protocol and network for secure, private messaging between patients and physicians.
+
+### Libraries TODO
+- [Zero Knowledge Unique Patient Identifier Key in a Soul Bound NFT](https://app.dework.xyz/hackfs-dhealth-colle/suggestions?taskId=ff0c50bf-3c11-4076-8c9c-18d8c46ecf05) - For patients, owning an NFT of their medical data would be like creating a sentry to guard that personal information. The NFT would act as a gatekeeper, tracking who requested access, who was granted access, and when—and record all those actions publicly.
+- [Federated Learning](https://app.dework.xyz/hackfs-dhealth-colle/suggestions?taskId=f25f12a9-7e3d-4488-85f7-023f95f75dfe) - Fluence to perform decentralized analysis of human generated data from applications and backends on peer-to-peer networks
+- [Proof of Humanity](https://app.dework.xyz/hackfs-dhealth-colle/suggestions?taskId=db1092b9-91b4-4352-999a-f088ffefd6c8) - The Proof of Attendance Protocol for Sybil Resistant data collection, ensuring that robots aren't selling fake health data.
+- [Reward open-source health innovation](https://app.dework.xyz/hackfs-dhealth-colle/suggestions?taskId=7261a8d8-f1ad-493c-a41c-b70a36507763) - Valist to reward public good open-source health technology innovations using Software License NFTs and proof of open-source contribution.
+- [Querying specific health data](https://app.dework.xyz/hackfs-dhealth-colle/suggestions?taskId=3a546a7f-2aa6-43a1-8dda-08c5a62c83b4) - Tableland for querying the HumanFS for specific data types and time periods.
+- [NFT Health Data Marketplace](https://app.dework.xyz/hackfs-dhealth-colle/main-space-477/projects/nft-health-data-mark) - NFTPort for minting data sets that can be sold to pharmaceutical companies in a health data marketplace.
+- [On-Chain Analytics](https://app.dework.xyz/hackfs-dhealth-colle/suggestions?taskId=0114d499-36ff-4451-9d1a-e870c753e155) - Covalent for Health Data NFT marketplaces, On-Chain Analytics / Dashboards, Health Data Wallets, Health Data Asset tracking, and ROI for NFT generation and sales.
+
+
+## Incentivizing Data Sharing
+
+![desci-exchange-text-logo-wide-text-hands-background.png](/desci-exchange-text-logo-wide-text-hands-background.png)
+
+![desci-exchange-how-it-works.png](/desci-exchange-how-it-works.png)
+
+## Architecture Overview
+
+![desci-exchange-diagram.svg](/desci-exchange-diagram.svg)
+
+# Digital Twin Skeleton Key NFT
+
+![digital-twin-nft.png](/digital-twin-nft.png)
+
+Possession is checked when accessing your Digital Twin Safe.
+If you don't have the key, you're prompted to mint one.
+
+The Digital Twin Skeleton Key NFT is a soul-bound NFT that can only be minted if you do not already have one.
+
+This key gives you the ability to mint [Data Gem Data Access NFTs](../data-gem/README.md) using your imported data.
+
+## Life Force Score
+
+The attached avatar image and Life Force Score metadata are updated daily based on their imported data performing
+healthy activities, such as having a good sleep schedule, hydrating, and exercising.
+
+This metadata is available to various metaverse game ecosystems and can influence their scores and abilities in these
+games.
+
+[CONTRACTS AND MORE INFO ABOUT DIGITAL TWIN NFTS](packages/desci-exchange/contracts/digital-twin/README.md)
+
+# Data Gems
+
+![data-gems.png](/data-gems.png)
+
+Data Gems bestow their holder with magical powers enabling them to transcend the physical world and see an aspect of its inter-dimensionally linked digital twin.
+
+A more boring way to put it, is to say that Data Gems are NFT tokens that give the holder the ability to decrypt a data stream.
+
+They can be mined by the data owner and can be given or sold to other Analog Twins or businesses.
+
+[CONTRACTS AND MORE INFO ABOUT DATA GEMS](packages/desci-exchange/contracts/data-gem/README.md)
+
+
+# Benefits
+
+## For Individuals
+
+- eBay for health data - You can earn magic internet money by selling your data regarding symptoms, treatments, and
+  factors to pharmaceutical companies, insurance companies, and other data buyers
+- Control access and use of your data through fine-grained permissions
+- Continuously monitor and audit the data you provide to other organizations
+
+## For Health Apps
+
+- Connected real-world data yields better insights for your users
+- Apps that embed the exchange in their app earn a 0.5% transaction fee for each data sale
+- Connect to third-party sources to enrich your data, or easily connect to a user's existing data
+
+## For Pharmaceutical Companies
+
+- Conduct long-term safety and effectiveness studies by linking their clinical trial data to medical claims and
+  electronic health record data
+- Refine models for finding rare disease patients by linking diagnostic lab, genomic, and imaging data
+- Discover new therapeutic candidates with connected data
+
+## For Insurers
+
+- Improve value-based care analytics and sharpen total cost of care estimates by linking to EHR and clinical data
+- Connect to the nation's largest ecosystem of health data
+- Hone risk adjustment factor calculations by linking claims to social determinant's data, to properly estimate the true
+  cost of patient care
+
+
+## Continuous Improvement
+Key Performance Indicators (KPIs) should be monitored in the jurisdictions where each fork is applied.  This will allow for A/B testing of the outcomes of particular policies and statutes that differ among forks.  
+
+## Governance
+The policies of dFDA can be submitted and ratified using a Futarchical Voting mechanism whereby votes are weighted based on the voter's historical record of voting on proposals linked to improvements in outcome KPIs. 
+
+### Benefits to Board Members
+ - Elevated on-chain reputation for prediction accuracy
+ - Gains from futures market
+
+## A Futures Market for Crowdsourcing Net Value of Interventions
+
+QALY stands for Quality Adjusted Life Year. The QALY is commonly used in health economic evaluations as a means of quantifying the health effect of a medical intervention.
+ 
+### The Calculation
+The QALY can be calculated using the following formula which assumes a utility value (quality of life) between 
+- 1 = perfect health and 
+- 0 = dead
+
+QALYs = Years of Life x Utility Value
+ 
+This means:
+
+If a person lives in perfect health for one year, that person will have 1 QALY.
+(1 Year of Life × 1 Utility Value = 1 QALY)
+ 
+If a person lives in perfect health but only for half a year, that person will have 0.5 QALYs.
+(0.5 Years of Life x 1 Utility Value = 0.5 QALYs)
+ 
+Conversely, if a person lives for 1 year in a situation with 0.5 utility (half of perfect health), that person will also have 0.5 QALYs.
+(1 Year of Life x 0.5 Utility Value = 0.5 QALYs)
+ 
+The QALY is used to quantify the effectiveness of a new medicine versus the current one. In other words, the current standard of care is taken as the baseline, and the QALYs gained from the new (improved) intervention are counted in addition.
+ 
+
+### Crowdsourcing QUALY Estimates
+
+Numerous studies have illustrated the ability of the combined estimates of a large number of minds to produce more accurate predictions than even the greatest experts in the group. However there are five components necessary to produce optimal results:
+
+1. Independence - Opinions of people are not determined by the people around them.
+2. Decentralization - People can draw on domestic knowledge and specialize in it.
+3. Opinion Diversity - Everyone must have private information, even eccentric explanations of famous facts. 
+4. Trust - Every person trusts that a group can make a fair decision.
+5. Aggregation- To turn private judgments into a mutual decision, you have to follow a mechanism.    
+By applying these elements to a futures market that estimates the change in utility value and average lifespan, it's possible to acheive a far more accurate cost-benefit analysis of interventions than is currently possible with small centralized regulatory bodies. 
+
+## A Futarchy-Based Meritocratic Regulatory Framework
+
+Medical experts will receive soul-bound non-transferable deFDA Credential NFTs (FDA-CRED) will be issued to all members of the American Medical Association (AMA) and other international bodies which verify medical credentialing.
+
+One deFDA fungible Reputation Token (FDA-REP) will be airdropped to holder of FDA-NFTs for each intervention that is proposed for a specified population.
+
+Medical experts can stake their token in one of three pools based on their belief for the experimental population relative to a control group not exposed to the intervention:
+
+1. "Uncertain Pool" - they are uncertain of the outcome of the reform
+2. "Harmful Pool" - reform will result in a relative net average DECREASE in healthspan
+3. "Helpful Pool" - reform will result in a relative net average INCREASE in healthspan
+
+If they do nothing, it will be assumed that they did not review the proposal.
+
+If the "Helpful Pool" is the majority, the proposal will be approved and implemented. Post-marketing pharmaco-vigilence data will be collected from the participants and used to determine the relative change in healthspan between affected and unaffected populations.
+
 
 ### Roadmap
 
@@ -52,42 +278,3 @@ The Decentralized FDA is meant to act as a regulatory template or platonic ideal
 - Cooperative to own the health data collectively; pool with other aligned orgs to create a massive data set owned by the participants 
 - Non-profit to issue certifications and publish code/standards (limited liability through Wyoming non-profit)
 - For profit(s) to run experiments and collaborate with other corporations to commercialize therapeutics when feasible
-
-
-## Continuous Improvement
-Key Performance Indicators (KPIs) should be monitored in the jurisdictions where each fork is applied.  This will allow for A/B testing of the outcomes of particular policies and statutes that differ among forks.  
-
-## Governance
-The policies of dFDA can be submitted and ratified using a Futarchical Voting mechanism whereby votes are weighted based on the voter's historical record of voting on proposals linked to improvements in outcome KPIs. 
-
-### Benefits to Board Members
- - Elevated on-chain reputation for prediction accuracy
- - Gains from futures market
-
-## Functions and Components
-1. **Comparative Policy Analysis** - Aggregate existing approval and certification data from existing national regulatory bodies
-2. **Food and Drug Outcome Labels** - Aggregate and analyze real-world data (RWD) to create Outcome Labels subject to Futarchical-weighted review by the board members of the dFDA
-3. **Publish Meta-Analyses** - Generate meta-analyses from all completed studies at ClinicalTrials.gov
-4. **DeSci Exchange** - A free market for personal data in the form of an embeddable SDK with a configurable transaction fee for the apps embedding it. 
-5. **Human File System Protocol and SDK** - A standard protocol for personal data exchange betweeen studies, apps and devices. 
-6. **Digital Twin Safe** - A tool for self-sovereign storage of personal data that enables effortless data sharing with clinical safety and efficacy studies.
-
-
-## A Futarchy-Based Meritocratic Regulatory Framework
-
-Medical experts will receive soul-bound non-transferable deFDA Credential NFTs (FDA-CRED) will be issued to all members of the American Medical Association (AMA) and other international bodies which verify medical credentialing.
-
-One deFDA fungible Reputation Token (FDA-REP) will be airdropped to holder of FDA-NFTs for each intervention that is proposed for a specified population.
-
-Medical experts can stake their token in one of three pools based on their belief for the experimental population relative to a control group not exposed to the intervention:
-
-1. "Uncertain Pool" - they are uncertain of the outcome of the reform
-2. "Harmful Pool" - reform will result in a relative net average DECREASE in healthspan
-3. "Helpful Pool" - reform will result in a relative net average INCREASE in healthspan
-
-If they do nothing, it will be assumed that they did not review the proposal.
-
-If the "Helpful Pool" is the majority, the proposal will be approved and implemented. Post-marketing pharmaco-vigilence data will be collected from the participants and used to determine the relative change in healthspan between affected and unaffected populations.
-
-
-
