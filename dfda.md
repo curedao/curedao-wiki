@@ -2,7 +2,7 @@
 title: The Decentralized FDA
 description: A platonic ideal for the regulation of food and drugs.
 published: true
-date: 2022-11-07T23:02:50.343Z
+date: 2022-11-07T23:16:44.307Z
 tags: dfda, fda, regulation
 editor: markdown
 dateCreated: 2022-11-04T23:10:39.282Z
@@ -15,6 +15,8 @@ Maximimize average healthy human lifespan by identifying  discovering and disemm
 
 ## Overview
 The Decentralized FDA is meant to act as a regulatory template or platonic ideal based on crowdsourced best practices for food and drug regulation and compliance. It is meant to be forked, modified where needed, and implemented in various micro-nations, network states, or special economic zones.  
+
+Additionally, the dFDA is NOT a single entity.  It is a protocol or blueprint for an incentivization ecosystem that facilitates a free market for innovation by the countless individuals and organizations needed to realize the precise and personalized medicine of the future.
 
 ## Hypotheses
 
@@ -30,6 +32,9 @@ The Decentralized FDA is meant to act as a regulatory template or platonic ideal
 4. **DeSci Exchange** - A free market for personal data in the form of an embeddable SDK with a configurable transaction fee for the apps embedding it. 
 5. **Human File System Protocol and SDK** - A standard protocol for personal data exchange betweeen studies, apps and devices. 
 6. **Digital Twin Safe** - A tool for self-sovereign storage of personal data that enables effortless data sharing with clinical safety and efficacy studies.
+7. **Certification of Intervention Manufacturers/Sources** via a Decentralized Web of Trust derived from end-user data and reviews traced back though an NFT-tracked supply chain
+8. **Intevention Ranking** - Elevate the most promising yet little/known or researched treatments
+9. **Decentralized Clinical Trials** - Not only would this increase knowledge but also access and availability of new and innovated treatments to those who need them urgently.
 
 ## Objective:  Accerelerate Clinical Discovery
 
