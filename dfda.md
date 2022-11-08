@@ -2,7 +2,7 @@
 title: The Decentralized FDA
 description: A platonic ideal for the regulation of food and drugs.
 published: true
-date: 2022-11-07T23:16:44.307Z
+date: 2022-11-08T19:33:42.987Z
 tags: dfda, fda, regulation
 editor: markdown
 dateCreated: 2022-11-04T23:10:39.282Z
@@ -95,7 +95,9 @@ Diet-Tracking App B:
 
 ⇒ Making it possible for Diet-Tracking App B (and/or Pain Tracking App A) to easily analyze the relationship between dietary factors and Arthritis Severity using causal inference predictive model control recurrent neural networks.
 
-## Overview
+## Digital Twin Safe
+
+Import data from all your apps and wearables so you can centrally own, control, and share all your digital exhaust.
 
 ![digital-twin-safe-screenshot-home](https://user-images.githubusercontent.com/2808553/200402565-72bc85a3-deb2-4f1a-a9b1-bde108e63d87.png)
 
@@ -121,7 +123,7 @@ Data Storage, Authorization and Sharing - Lit Programmable Key Pairs (PKPs) for 
 
 ![desci-exchange-diagram.svg](/desci-exchange-diagram.svg)
 
-# Digital Twin Skeleton Key NFT
+## Digital Twin Skeleton Key NFT
 
 ![digital-twin-nft.png](/digital-twin-nft.png)
 
