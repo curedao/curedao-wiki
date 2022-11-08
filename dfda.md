@@ -2,7 +2,7 @@
 title: The Decentralized FDA
 description: A platonic ideal for the regulation of food and drugs.
 published: true
-date: 2022-11-08T19:33:42.987Z
+date: 2022-11-08T19:33:53.226Z
 tags: dfda, fda, regulation
 editor: markdown
 dateCreated: 2022-11-04T23:10:39.282Z
@@ -109,7 +109,7 @@ Import data from all your apps and wearables so you can centrally own, control, 
 
 ![digital-twin-safe-screenshot-data-sources](https://user-images.githubusercontent.com/2808553/200402625-8c4ab0b1-829c-4128-8b12-509c2f885b96.png)
 
-# 📚 Libraries Used
+### 📚 Libraries Used
 
 Data Storage, Authorization and Sharing - Lit Programmable Key Pairs (PKPs) for access control over protected health information (PHI) with data storage on Ceramic. XMTP (Extensible Message Transport Protocol) is an open protocol and network for secure, private messaging between patients and physicians.
 
