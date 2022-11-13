@@ -2,7 +2,7 @@
 title: 💡 CureDAO
 description: A global alliance to discover how millions of factors like foods, drugs, and supplements affect human health.
 published: true
-date: 2022-11-13T18:31:12.811Z
+date: 2022-11-13T18:33:02.941Z
 tags: curedao, litepaper, overview
 editor: markdown
 dateCreated: 2022-07-28T02:01:12.458Z
@@ -32,7 +32,7 @@ But we can't realize this dream without you!
 
 Hmm. You're still here, so I guess you're not convinced. 😕 Then venture on, dear reader!
 
-## The WordPress of Health Data
+# The WordPress of Health Data
 
 Our first project is a community-owned, open-source, no-code platform for health data aggregation and analysis.
 
@@ -40,7 +40,7 @@ It will provide a basic foundational technology layer to remove barriers for phy
 
 It consists of two primary components:
 
-### 1. The Core Open-Source Platform
+## 1. The Core Open-Source Platform
 
 * Storage
 * Security
@@ -48,7 +48,7 @@ It consists of two primary components:
 * De-identified Data Sharing
 * API with Advanced Querying Capabilities
 
-### 2. The 3rd Party Plugin Framework
+## 2. The 3rd Party Plugin Framework
 
 * Data import from any source
 * Data Format Transformation
@@ -63,7 +63,7 @@ Our novel incentive structure overcomes the traditional collaboration and data s
 Using smart contracts, the platform will compensate all contributors with royalties.
 
 
-## Problem: You and Everyone You Love Will Suffer and Die
+# Problem: You and Everyone You Love Will Suffer and Die
 
 Over [2 billion](https://www.george-health.com/global-health-challenge/) people are suffering and [150,000](https://www.weforum.org/agenda/2020/05/how-many-people-die-each-day-covid-19-coronavirus/) people die every single day from preventable diseases. 
 For perspective, this is equivalent to:
@@ -71,7 +71,7 @@ For perspective, this is equivalent to:
 * [**FIFTY-ONE**](https://en.wikipedia.org/wiki/Casualties\_of\_the\_September\_11\_attacks) September 11th attacks every day
 * [**NINE**](https://www.haaretz.com/israel-news/6-million-where-is-the-figure-from-1.10570907) Holocausts every year
 
-### 💡 Solution: A Collaborative Framework for Personalized, Precision Health
+## 💡 Solution: A Collaborative Framework for Personalized, Precision Health
 
 The solution is to use the oceans of real-world evidence to accelerate the discovery of new cures and reveal hidden causes of disease.
 
@@ -80,7 +80,7 @@ The human body can be viewed as a black box with inputs (like diet, treatments, 
 
 ![machine-learning-health-optimization.png](/machine-learning-health-optimization.png)
 
-#### The Potential of the Oceans of Real-World Evidence
+## The Potential of the Oceans of Real-World Evidence
 
 * **Discovering Hidden Causes of Illness** - Data mining and analysis to identify hidden factors in our daily life that are making us sicker
 * **Preventative medicine** - Predictive analytics and data analysis of genetic, lifestyle, and social circumstances to prevent disease
@@ -90,7 +90,7 @@ The human body can be viewed as a black box with inputs (like diet, treatments, 
 * **Cost reduction** - Driving better patient outcomes for long-term savings through prevention and avoidance of expensive and ineffective treatments
 * **Population health** - Identify health strategies based on demographic, geographic, and socioeconomic trends
 
-### Why Clinical Research Has Failed
+## Why Clinical Research Has Failed
 
 It takes over [10 years and 2.6 billion dollars](https://www.semanticscholar.org/paper/Innovation-in-the-pharmaceutical-industry%3A-New-of-DiMasiGrabowski/3275f31c072ac11c6ca7a5260bd535720f07df41) to bring a drug to market (including failed attempts). 
 It costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001) per subject in Phase III clinical trials.
@@ -127,9 +127,9 @@ If you multiply the [166 billion](https://www.nature.com/articles/549445a) molec
 
 ![](/assets/studied-molecules-chart-no-background.png)
 
-### Why Digital Health Innovation Has Failed
+# Why Digital Health Innovation Has Failed
 
-#### Duplication of Effort
+## Duplication of Effort
 
 Despite this massive growth in health data and innovation, we've seen increased costs and disease burden and decreased life expectancy.
 
@@ -159,11 +159,11 @@ The obstacle has been the free-rider problem. Software developers that open sour
 4. **Managed Software-as-a-Service** - Digital health companies can save months of development time and tens of thousands of dollars using our platform instead of reinventing the wheel. A usage-based subscription platform for health application developers would start at $0.50/end-user per month.
 5. **For-Profit Plugins** - WordPress, the most widely used web framework globally, is open-source. Businesses earn revenue by creating for-profit plugins. They contribute to improvements of the open-source core WordPress platform because these improvements benefit their business directly.
 
-## 🏭 Platform
+# 🏭 Platform
 
 A global open-source platform and plugin framework will enable the transformation of data into clinical discoveries.
 
-#### Functional Scope
+## Functional Scope
 
 The functional scope of the platform includes:
 
@@ -174,11 +174,11 @@ The functional scope of the platform includes:
 
 of health data from different sources.
 
-#### Primary goal
+## Primary goal
 
 Create a basic foundational technology layer suitable for any digital health application that provides better interoperability, portability, availability, analysis, and data security.
 
-#### Use Cases
+## Use Cases
 
 * EHR Systems for healthcare providers
 * User-centered dashboards for personal health management
@@ -198,7 +198,7 @@ The platform consists of two primary components:
 * **Core Open-Source Platform** - The core platform is open-source and includes only universally necessary features. This primarily consists of user authentication, data owner access controls, data storage, data validation, and an API for storage and retrieval.
 * **Plugin Framework** - Plugins will provide additional functionality like data import from specific sources, data mapping to various formats, data analysis, data visualization, notifications. These may be free or monetized by their creator.
 
-### Core Components
+## Core Components
 
 **Data Ingestion and Access API**
 
@@ -216,7 +216,7 @@ Data should be owned by the individual who generated it. It should remain under 
 
 Value stream management allows the exchange of data for tokens.
 
-### Plugin Framework
+## Plugin Framework
 
 3rd party plugins can interact with the core and provide additional functionality. They may be free or monetized by their creator. These include:
 
@@ -247,7 +247,7 @@ Data Analysis Plugins will apply statistical and machine learning methods to the
 * [Observational Studies](https://wiki.curedao.org/en/plugins/observational-studies-plugin)
 * [Real-Time Decision Support Notifications](https://wiki.curedao.org/en/plugins/optomitron-real-time-notifications-plugin)
 
-## ❤ Incentivization
+# ❤ Incentivization
 
 We use the DAO structure and NFT IP royalties to reward data sharing and open-source collaboration.
 
@@ -257,14 +257,14 @@ This illustrates the flow of value between different stakeholders. Unlike tradit
 
 ![Value Flow Chain](/assets/value-chain-diagram.png)
 
-#### 1. Patients
+## 1. Patients
 
 Incentives for Patients to share their de-identified data will include:
 
 1. Actionable ways to prevent and mitigate chronic illnesses.
 2. The ability to license and earn a share of income for the use of their data for research and development by pharmaceutical companies and other businesses. NFTs will be linked to the user's cryptographic wallet address. Using a smart contract, the user will receive an ongoing royalty share of the profits for any product developed using their data for research and development.
 
-#### 2. Businesses Housing Data Silos
+## 2. Businesses Housing Data Silos
 
 Businesses housing data silos include health insurers, pharmacies, grocery delivery services, digital health apps, hospitals, etc. These will be incentivized to allow individuals to easily share their data via a well-documented OAuth2 API by:
 
@@ -272,20 +272,20 @@ Businesses housing data silos include health insurers, pharmacies, grocery deliv
 2. An on-site instance of the OAuth2 server to retrieve required data from their on-premise databases.
 3. Reduction in their employee healthcare costs (one of their most significant expenses)
 
-#### 4. Incentives for Digital Health Businesses
+## 4. Incentives for Digital Health Businesses
 
 1. Reduced costs of software development.
 2. Massive free marketing exposure through company branded plugins in the Plugin Marketplace.
 3. Revenue derived from their plugins in the Plugin Marketplace.
 
-#### 5.Incentives for Disease Advocacy Non-Profit Organizations
+## 5.Incentives for Disease Advocacy Non-Profit Organizations
 
 Disease advocacy nonprofits will benefit from promoting studies to their members by:
 
 1. Furtherance of their mission to reduce the incidence of chronic illnesses.
 2. Member engagement more productive than the traditional charity walk.
 
-#### 6. Incentives for Government Health Agencies
+## 6. Incentives for Government Health Agencies
 
 1. A reduction in healthcare costs due to discovering new ways to prevent and mitigate chronic illnesses.
 2. Furtherance of their stated reason for existence to protect and promote the general welfare.
@@ -293,14 +293,14 @@ Disease advocacy nonprofits will benefit from promoting studies to their members
 4. Cost-savings from international cost-sharing by using global open-source software.
 5. Epidemiological discoveries on the effectiveness of different public health regulations between nations.
 
-#### 7. Incentives for Contributors to the Development of the Platform
+## 7. Incentives for Contributors to the Development of the Platform
 
 1. Gitcoin bounties for specific tasks
 2. Encoding git commits with NFTs entitling the developer to ongoing royalties in proportion to their contributions.
 3. Dework bounties for tasks
 4. Other benefits - depending on the involvement
 
-## 🏛 Organization
+# 🏛 Organization
 
 CureDAO is a laboratory consisting of many experiments.
 
@@ -333,22 +333,22 @@ The primary sources of income include:
 2. Grants from governments modernizing their programs to take advantage of real-world data
 3. Digital health companies wishing to accelerate product development using existing white-label software or hosted software-as-a-service (SaaS) options
 
-#### Hosted Software as a Service (SaaS)
+## Hosted Software as a Service (SaaS)
 
 Digital health companies can save months of development time and tens of thousands of dollars by using our platform instead of reinventing the wheel. A usage-based subscription platform for health application developers would start at $0.50/end-user per month.
 
-#### Data Licensing
+## Data Licensing
 
 Electronic health records (EHRs) can be used to support randomized controlled trials (RCTs). A [meta-analysis](https://pubmed.ncbi.nlm.nih.gov/30718353/) found that the per-patient cost in EHR-supported trials varied from [$44 to $2000](https://pubmed.ncbi.nlm.nih.gov/30718353/).
 Using NFTs, we can link donated data to the patient to receive ongoing royalty payments for the use of their data once new interventions reach the market.
 
-#### Software Licensing
+## Software Licensing
 
 The project core framework will be open-source for any non-commercial purpose. However, we will utilize a [Fair-code](https://faircode.io) or [Fair Source](https://fair.io/?a) licensing model to generate revenue when used by for-profit entities.
 Licensing fees will be negotiated such that a fraction of the profits generated by the licensee's project use.
 
 
-# Read The Full Whitepaper
+# Full Whitepaper
 
 1. [Introduction and Challenges](chttps://wiki.curedao.org/en/whitepaper/1-introduction-and-challenges)
 2. [Solution](https://wiki.curedao.org/en/whitepaper/02-solution)
