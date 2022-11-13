@@ -2,7 +2,7 @@
 title: 💡 CureDAO
 description: A global alliance to discover how millions of factors like foods, drugs, and supplements affect human health.
 published: true
-date: 2022-11-13T18:33:02.941Z
+date: 2022-11-13T18:34:44.120Z
 tags: curedao, litepaper, overview
 editor: markdown
 dateCreated: 2022-07-28T02:01:12.458Z
@@ -71,7 +71,7 @@ For perspective, this is equivalent to:
 * [**FIFTY-ONE**](https://en.wikipedia.org/wiki/Casualties\_of\_the\_September\_11\_attacks) September 11th attacks every day
 * [**NINE**](https://www.haaretz.com/israel-news/6-million-where-is-the-figure-from-1.10570907) Holocausts every year
 
-## 💡 Solution: A Collaborative Framework for Personalized, Precision Health
+# 💡 Solution: A Collaborative Framework for Personalized, Precision Health
 
 The solution is to use the oceans of real-world evidence to accelerate the discovery of new cures and reveal hidden causes of disease.
 
@@ -90,7 +90,7 @@ The human body can be viewed as a black box with inputs (like diet, treatments, 
 * **Cost reduction** - Driving better patient outcomes for long-term savings through prevention and avoidance of expensive and ineffective treatments
 * **Population health** - Identify health strategies based on demographic, geographic, and socioeconomic trends
 
-## Why Clinical Research Has Failed
+# Why Clinical Research Has Failed
 
 It takes over [10 years and 2.6 billion dollars](https://www.semanticscholar.org/paper/Innovation-in-the-pharmaceutical-industry%3A-New-of-DiMasiGrabowski/3275f31c072ac11c6ca7a5260bd535720f07df41) to bring a drug to market (including failed attempts). 
 It costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001) per subject in Phase III clinical trials.
