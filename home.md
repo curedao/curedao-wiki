@@ -2,7 +2,7 @@
 title: 💡 CureDAO
 description: A global alliance to discover how millions of factors like foods, drugs, and supplements affect human health.
 published: true
-date: 2022-11-04T22:34:45.255Z
+date: 2022-11-13T18:31:12.811Z
 tags: curedao, litepaper, overview
 editor: markdown
 dateCreated: 2022-07-28T02:01:12.458Z
@@ -366,7 +366,7 @@ Licensing fees will be negotiated such that a fraction of the profits generated 
 14. [Disclaimer](https://wiki.curedao.org/en/whitepaper/14-disclaimer) 
 15. [References](https://wiki.curedao.org/en/whitepaper/15-references) 
 
-## Oh, you are still here?
+### Oh, you're still here?
 
 Congratulations! You've won the chocolate factory! You did it! You did it! I knew you would! I just knew you would!
 
