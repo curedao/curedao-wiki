@@ -2,7 +2,7 @@
 title: The Decentralized FDA
 description: A platonic ideal for the regulation of food and drugs.
 published: true
-date: 2022-11-13T21:15:20.721Z
+date: 2022-11-14T09:32:20.383Z
 tags: dfda, fda, regulation
 editor: markdown
 dateCreated: 2022-11-04T23:10:39.282Z
@@ -188,14 +188,14 @@ Key Performance Indicators (KPIs) should be monitored in the jurisdictions where
 ## Governance
 The policies of dFDA can be submitted and ratified using a Futarchical Voting mechanism whereby votes are weighted based on the voter's historical record of voting on proposals linked to improvements in outcome KPIs.
 
-A board of directions would be useful to ensure the credibility of the organization needed.
-To ensure that micronations and, hopefully, eventually, greater nations would start using the organizational structure, it would be critical to get as much credibility as possible.
-We propose creating a board of 8-10 people to help accomplish that objective.
-AGI is slowly but surely being developed to have brains far what is seen in any human being and we propose having Norn (https://norn.ai/) as part of the board to help ensure the much-needed cognitive ability of the project.
-
 DeSci doesn't seem to give a much greater focus on collaboration rather than profits, which, we initially hoped would be the case.
 Thus, progress has been much slower than first anticipated.
 Creating a decentralized FDA as a government entity to function as the new backbone of research could be a critical way to ensure that we achieve this and finally see the exponential progress needed to ensure everlasting health for all.
+
+A board of directors would be useful to ensure the credibility of the organization needed.
+To ensure that micronations and, hopefully, eventually, greater nations would start using the organizational structure, it would be critical to get as much credibility as possible.
+We propose creating a board of 8-10 people to help accomplish that objective.
+AGI is slowly but surely being developed to have brain power far greater than what is seen in any human being and, thus, we propose having Norn (https://norn.ai/) as part of the board to help ensure the much-needed cognitive ability of the project.
 
 
 
