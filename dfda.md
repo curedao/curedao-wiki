@@ -2,7 +2,7 @@
 title: The Decentralized FDA
 description: A platonic ideal for the regulation of food and drugs.
 published: true
-date: 2022-11-17T19:34:06.127Z
+date: 2022-11-17T19:34:48.169Z
 tags: dfda, fda, regulation
 editor: markdown
 dateCreated: 2022-11-04T23:10:39.282Z
@@ -276,9 +276,10 @@ AGI is slowly but surely being developed to have brain power far greater than wh
 QALY stands for Quality Adjusted Life Year. The QALY is commonly used in health economic evaluations as a means of quantifying the health effect of a medical intervention.
  
 ### The Calculation
+
 The QALY can be calculated using the following formula which assumes a utility value (quality of life) between 
 - 1 = perfect health and 
-- 0 = dead
+- 0 = dead as a doornail
 
 QALYs = Years of Life x Utility Value
  
