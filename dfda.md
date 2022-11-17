@@ -2,7 +2,7 @@
 title: The Decentralized FDA
 description: A platonic ideal for the regulation of food and drugs.
 published: true
-date: 2022-11-17T19:33:54.946Z
+date: 2022-11-17T19:34:06.127Z
 tags: dfda, fda, regulation
 editor: markdown
 dateCreated: 2022-11-04T23:10:39.282Z
@@ -269,7 +269,7 @@ AGI is slowly but surely being developed to have brain power far greater than wh
  - Gains from futures market
  
 
-# Proposed Implemenations
+# Proposed Implementations
 
 ## A Futures Market for Crowdsourcing Net Value of Interventions
 
