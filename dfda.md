@@ -2,7 +2,7 @@
 title: The Decentralized FDA
 description: A platonic ideal for the regulation of food and drugs.
 published: true
-date: 2022-11-17T19:29:47.897Z
+date: 2022-11-17T19:33:54.946Z
 tags: dfda, fda, regulation
 editor: markdown
 dateCreated: 2022-11-04T23:10:39.282Z
@@ -176,13 +176,15 @@ Import data from all your apps and wearables so you can centrally own, control, 
 
 Data Storage, Authorization and Sharing - Lit Programmable Key Pairs (PKPs) for access control over protected health information (PHI) with data storage on Ceramic. XMTP (Extensible Message Transport Protocol) is an open protocol and network for secure, private messaging between patients and physicians.
 
-## Incentivizing Data Sharing
+# Incentivizing Data Sharing
 
 ![desci-exchange-text-logo-wide-text-hands-background.png](/desci-exchange-text-logo-wide-text-hands-background.png)
 
+## How a Free Market for Human Data Would Work
+
 ![desci-exchange-how-it-works.png](/desci-exchange-how-it-works.png)
 
-## Architecture Overview
+## DeSci Exchange Architecture
 
 ![desci-exchange-diagram.svg](/desci-exchange-diagram.svg)
 
@@ -197,15 +199,17 @@ The Digital Twin Skeleton Key NFT is a soul-bound NFT that can only be minted if
 
 This key gives you the ability to mint Data Gem Data Access NFTs using your imported data.
 
+# Gamification to Incentivize Healthy Behaviour
+
 ## Life Force Score
 
-The attached avatar image and Life Force Score metadata are updated daily based on their imported data performing
-healthy activities, such as having a good sleep schedule, hydrating, and exercising.
+The attached avatar image and Life Force Score metadata are updated daily based on their imported data performing healthy activities, such as having a good sleep schedule, hydrating, and exercising.
 
-This metadata is available to various metaverse game ecosystems and can influence their scores and abilities in these
-games.
+This metadata is available to various metaverse game ecosystems and can influence their scores and abilities in these games.
 
-# Data Gems
+# Data Access Sharing, Monetization and Controls
+
+## Data Gems
 
 ![data-gems.png](/data-gems.png)
 
@@ -300,7 +304,8 @@ Numerous studies have illustrated the ability of the combined estimates of a lar
 2. Decentralization - People can draw on domestic knowledge and specialize in it.
 3. Opinion Diversity - Everyone must have private information, even eccentric explanations of famous facts. 
 4. Trust - Every person trusts that a group can make a fair decision.
-5. Aggregation- To turn private judgments into a mutual decision, you have to follow a mechanism.    
+5. Aggregation - To turn private judgments into a mutual decision, you have to follow a mechanism.    
+
 By applying these elements to a futures market that estimates the change in utility value and average lifespan, it's possible to acheive a far more accurate cost-benefit analysis of interventions than is currently possible with small centralized regulatory bodies. 
 
 ## A Futarchy-Based Meritocratic Regulatory Framework
