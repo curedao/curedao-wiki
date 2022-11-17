@@ -2,7 +2,7 @@
 title: The Decentralized FDA
 description: A platonic ideal for the regulation of food and drugs.
 published: true
-date: 2022-11-17T19:19:40.430Z
+date: 2022-11-17T19:29:47.897Z
 tags: dfda, fda, regulation
 editor: markdown
 dateCreated: 2022-11-04T23:10:39.282Z
@@ -41,6 +41,68 @@ Additionally, the dFDA is NOT a single entity.  It is a protocol or blueprint fo
 - Elevate the most promising yet little known/researched treatments
 - Issue certifications for the Decentralized Science web-of-trust
 - Provide an API for building trustworthy alternatives to conventional health markets
+
+# Problems We Seek To Address
+### Problems that Could be Solved with a New Regulatory Framework
+
+It takes over [10 years and \$2.6 billion](https://www.semanticscholar.org/paper/Innovation-in-the-pharmaceutical-industry%3A-New-of-DiMasiGrabowski/3275f31c072ac11c6ca7a5260bd535720f07df41) to bring a drug to market (including failed attempts). It costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001) per subject in Phase III clinical trials.
+
+The high costs lead to:
+
+**1. No Data on Unpatentable Molecules**
+
+We still know next to nothing about the long-term effects of 99.9% of the 4 pounds of over [7,000](https://www.dailymail.co.uk/health/article-8757191/Are-additives-food-making-ill.html) different synthetic or natural compounds. This is because there's only sufficient incentive to research patentable molecules.
+
+![chemicals-in-our-diet.png](/assets/chemicals-in-our-diet.png)
+
+**2. Lack of Incentive to Discover Every Application of Off-Patent Treatments**
+
+Most of the known diseases (approximately 95%) are classified as rare diseases. Currently, a pharmaceutical company must predict particular conditions to treat before running a clinical trial. Suppose a drug is effective for other diseases after the patent expires. In that case, there isn't a financial incentive to get it approved for the different conditions.
+
+**3. No Long-Term Outcome Data**
+
+It's not financially feasible to collect a participant's data for years or decades. Thus, we don't know if the long-term effects of a drug are worse than the initial benefits.
+
+**4. Negative Results Aren't Published**
+
+Pharmaceutical companies tend to only report "positive" results. That leads to other companies wasting money repeating research on the same dead ends.
+
+**5. Trials Exclude a Vast Majority of The Population**
+
+One investigation found that only [14.5%](https://www.ncbi.nlm.nih.gov/pubmed/14628985) of patients with major depressive disorder fulfilled eligibility requirements for enrollment in an antidepressant trial. Furthermore, most patient sample sizes are very small and sometimes include only 20 people.
+
+**6. We Only Know 0.000000002% of What is Left to be Researched**
+
+The more research studies we read, the more we realize we don't know. Nearly every study ends with the phrase "more research is needed".
+
+If you multiply the [166 billion](https://www.nature.com/articles/549445a) molecules with drug-like properties by the [10,000](https://www.washingtonpost.com/news/fact-checker/wp/2016/11/17/are-there-really-10000-diseases-and-500-cures/) known diseases, that's 1,162,000,000,000,000 combinations. So far, we've studied [21,000 compounds](https://www.centerwatch.com/articles/12702-new-mit-study-puts-clinical-research-success-rate-at-14-percent). That means we only know 0.000000002% of the effects left to be discovered.
+
+![studied-molecules-chart-no-background.png](/assets/studied-molecules-chart-no-background.png)
+
+### How a DAO Regulatory Body Could Overcome Perverse Incentives
+
+**Overcoming Cognitive Bias Against Acts of Commission**
+
+Humans have a cognitive bias towards weighting harmful acts of commission to be worse than acts of omission even if the act of omission causes greater harm. It's seen in the trolley problem where people generally aren't willing to push a fat man in front of a train to save a family even though more lives would be saved.
+
+Medical researcher Dr. Henry I. Miller, MS, MD described his experience working at the FDA, “In the early 1980s,” Miller wrote, “when I headed the team at the FDA that was reviewing the NDA \[application] for recombinant human insulin…my supervisor refused to sign off on the approval,” despite ample evidence of the drug’s ability to safely and effectively treat patients. His supervisor rationally concluded that, if there was a death or complication due to the medication, heads would roll at the FDA—including his own. So the personal risk of approving a drug is magnitudes larger than the risk of rejecting it.
+
+In a DAO comprised of a large number of prominent experts, no individual could be blamed or have their career destroyed for making a correct decision to save the invisible lives of the many at the risk of the lives of the few.
+
+**It's Impossible to Report on Deaths That Occurred Due to Unavailable Treatments**
+
+Here's a news story from the Non-Existent Times by No One Ever without a picture of all the people that die from lack of access to life-saving treatments that might have been.
+
+![non-existent-times.png](/assets/non-existent-times.png)
+
+This means that it's only logical for regulators to reject drug applications by default. The personal risks of approving a drug with any newsworthy side effect far outweigh the personal risk of preventing access to life-saving treatment.
+
+**Types of Error in FDA Approval Decision**
+
+|                             | Drug Is Beneficial                                       | Drug Is Harmful                                                |
+| --------------------------- | -------------------------------------------------------- | -------------------------------------------------------------- |
+| FDA Allows the Drug         | Correct Decision                                         | <p><br>Victims are identifiable and might appear on Oprah.</p> |
+| FDA Does Not Allow the Drug | <p>Victims are not identifiable or acknowledged.<br></p> | Correct Decision                                               |
 
 # Components
 
@@ -102,7 +164,7 @@ Import data from all your apps and wearables so you can centrally own, control, 
 
 ![digital-twin-safe-screenshot-home](https://user-images.githubusercontent.com/2808553/200402565-72bc85a3-deb2-4f1a-a9b1-bde108e63d87.png)
 
-## Variables
+### Variables
 
 ![digital-twin-safe-screenshot-variables](https://user-images.githubusercontent.com/2808553/200402422-41213d62-324d-44db-a725-fc0eab619e45.png)
 
@@ -257,6 +319,68 @@ If they do nothing, it will be assumed that they did not review the proposal.
 
 If the "Helpful Pool" is the majority, the proposal will be approved and implemented. Post-marketing pharmacovigilance data will be collected from the participants and used to determine the relative change in healthspan between affected and unaffected populations.
 
+# Historical Evidence in Support of Our Hypotheses
+
+There is compelling historical evidence suggesting that large scale efficacy-trials based on real-world evidence have ultimately led to better health outcomes than current pharmaceutical industry-driven randomized controlled trials.
+
+For over 99% of recorded human history, the average human life expectancy has been around 30 years.
+
+![life-expectancy-historical.jpg](/assets/life-expectancy-historical.jpg)
+
+**1893 - The Advent of Safety and Efficacy Trials**
+
+In the late nineteenth and early twentieth century, clinical objectivity grew. The independent peer-reviewed Journal of the American Medical Association (JAMA) was founded in 1893. It would gather case reports from the 144,000 physicians members of the AMA on the safety and effectiveness of drugs. The leading experts in the area of a specific medicine would review all of the data and compile them into a study listing side effects and the conditions for which a drug was or was not effective. If a medicine were found to be safe, JAMA would give its seal of approval for the conditions where it was found to be effective.
+
+The adoption of this system of crowd-sourced, observational, objective, and peer-reviewed clinical research was followed by a sudden shift in the growth of human life expectancy. After over 10,000 years of almost no improvement, we suddenly saw a strangely linear 4-year increase in life expectancy every single year.
+
+**1938 - The FDA Requires Phase 1 Safety Trials**
+
+A drug called Elixir sulfanilamide caused over [100 deaths](https://www.fda.gov/files/about%20fda/published/The-Sulfanilamide-Disaster.pdf) in the United States in 1937.
+
+Congress [reacted](https://en.wikipedia.org/wiki/Elixir\_sulfanilamide) to the tragedy by requiring all new drugs to include:
+
+> "adequate tests by all methods reasonably applicable to show whether or not such drug is safe for use under the conditions prescribed, recommended, or suggested in the proposed labeling thereof."
+
+These requirements evolved to what is now called the [Phase 1 Safety Trial](https://en.wikipedia.org/wiki/Phase\_1\_safety\_trial).
+
+This consistent four-year/year increase in life expectancy remained unchanged before and after the new safety regulations.
+
+![fda-safety-trials-life-expectancy.png](/assets/fda-safety-trials-life-expectancy.png)
+
+This suggests that the regulations did not have a large-scale positive or negative impact on the development of life-saving interventions.
+
+#### **1950's - Thalidomide Causes Thousands of Birth Defects Outside US**
+
+Thalidomide was first marketed in Europe in [1957](https://en.wikipedia.org/wiki/Thalidomide) for morning sickness. While it was initially thought to be safe in pregnancy, it resulted in thousands of horrific congenital disabilities.
+
+Fortunately, the existing FDA safety regulations prevented any birth defects in the US. Despite the effectiveness of the existing US regulatory framework in protecting Americans, newspaper stories such as the one below created a strong public outcry for increased regulation.
+
+![thalidomide.jpg](/assets/thalidomide.jpg)
+
+#### **1962 - New Efficacy Regulations Reduce the Amount and Quality of Efficacy Data Collected**
+
+As effective **safety** regulations were already in place, the government instead responded to the Thalidomide disaster by regulating **efficacy** testing via the 1962 Kefauver Harris Amendment. Before the 1962 regulations, it cost a drug manufacturer an average of \$74 million (2020 inflation-adjusted) to develop and test a new drug for safety before bringing it to market. Once the FDA had approved it as safe, efficacy testing was performed by the third-party American Medical Association. Following the regulation, trials were instead to be conducted in small, highly-controlled trials by the pharmaceutical industry.
+
+**Reduction in Efficacy Data**
+
+The 1962 regulations made these large real-world efficacy trials illegal. Ironically, even though the new regulations were primarily focused on ensuring that drugs were effective through controlled FDA efficacy trials, they massively reduced the quantity and quality of the efficacy data that was collected for several reasons:
+
+* New Trials Were Much Smaller
+* Participants Were Less Representative of Actual Patients
+* They Were Run by Drug Companies with Conflicts of Interest Instead of the 3rd Party AMA
+
+**Reduction in New Treatments**
+
+The new regulatory clampdown on approvals immediately reduced the production of new treatments by 70%.
+
+![](.gitbook/assets/new-treatments-per-year-2.png)
+![new-treatments-per-year-2.png](/assets/new-treatments-per-year-2.png)
+
+**Explosion in Costs**
+
+Since the abandonment of the former efficacy trial model, costs have exploded. Since 1962, the cost of bringing a new treatment to market has gone from [\$74 million](https://publications.parliament.uk/pa/cm200405/cmselect/cmhealth/42/4207.htm) to over [\$1 billion](https://publications.parliament.uk/pa/cm200405/cmselect/cmhealth/42/4207.htm) US dollars (2020 inflation-adjusted).
+
+![cost-to-develop-a-new-drug-2.png](/assets/cost-to-develop-a-new-drug-2.png)
 
 # Roadmap
 
