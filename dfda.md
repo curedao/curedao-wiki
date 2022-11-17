@@ -2,30 +2,30 @@
 title: The Decentralized FDA
 description: A platonic ideal for the regulation of food and drugs.
 published: true
-date: 2022-11-14T09:33:17.019Z
+date: 2022-11-17T19:19:40.430Z
 tags: dfda, fda, regulation
 editor: markdown
 dateCreated: 2022-11-04T23:10:39.282Z
 ---
 
-## Mandate
+# Mandate
 Maximize average healthy human lifespan by identifying  discovering and disseminating the effects of every food, additive, supplement, and medical intervention while minimizing costs to consumers.
 
 ![dfda-overview-purple.png](/dfda-overview-purple.png)
 
-## Overview
+# Overview
 The Decentralized FDA is meant to act as a regulatory template or platonic ideal based on crowdsourced best practices for food and drug regulation and compliance. It is meant to be forked, modified where needed, and implemented in various micro-nations, network states, or special economic zones.  
 
 Additionally, the dFDA is NOT a single entity.  It is a protocol or blueprint for an incentivization ecosystem that facilitates a free market for innovation by the countless individuals and organizations needed to realize the precise and personalized medicine of the future.
 
-## Hypotheses
+# Hypotheses
 
 1. Given a clear and optimized mandate, the crowd wisdom of a large body of medical experts can produce policies that are more effective at extending healthy human lifespan than the current regulatory framework.
 2. It is possible to implement such a regulatory body in a micro-state or economic zone such as Prospera, a semi-autonomous jurisdiction in Honduras.
 3. Evidence of the success of this model will make it possible to promote adoption by other micro-nations.
 4. Evidence of the success of this model will make it possible to promote adoption by increasingly larger states.
 
-## Functions and Components
+# Functions and Components
 1. **Comparative Policy Analysis** - Aggregate existing approval and certification data from existing national regulatory bodies
 2. **Food and Drug Outcome Labels** - Aggregate and analyze real-world data (RWD) to create Outcome Labels subject to Futarchical-weighted review by the board members of the dFDA
 3. **Publish Meta-Analyses** - Generate meta-analyses from all completed studies at ClinicalTrials.gov
@@ -36,12 +36,13 @@ Additionally, the dFDA is NOT a single entity.  It is a protocol or blueprint fo
 8. **Intervention Ranking** - Elevate the most promising yet little/known or researched treatments
 9. **Decentralized Clinical Trials** - Not only would this increase knowledge but also access and availability of new and innovated treatments to those who need them urgently.
 
-## Objective:  Accelerate Clinical Discovery
+# Objective:  Accelerate Clinical Discovery
 
 - Elevate the most promising yet little known/researched treatments
 - Issue certifications for the Decentralized Science web-of-trust
 - Provide an API for building trustworthy alternatives to conventional health markets
 
+# Components
 
 ## Outcome Labels
 
@@ -182,10 +183,10 @@ They can be mined by the data owner and can be given or sold to other Analog Twi
   cost of patient care
 
 
-## Continuous Improvement
+# Continuous Improvement
 Key Performance Indicators (KPIs) should be monitored in the jurisdictions where each fork is applied.  This will allow for A/B testing of the outcomes of particular policies and statutes that differ among forks.  
 
-## Governance
+# Governance
 The policies of dFDA can be submitted and ratified using a Futarchical Voting mechanism whereby votes are weighted based on the voter's historical record of voting on proposals linked to improvements in outcome KPIs.
 
 DeSci doesn't seem to give a much greater focus on collaboration rather than profits, which, we initially hoped would be the case.
@@ -197,11 +198,12 @@ To ensure that micronations and, hopefully, eventually, greater nations would st
 We propose creating a board of 8-10 people to help accomplish that objective.
 AGI is slowly but surely being developed to have brain power far greater than what is seen in any human being and, thus, we propose having Norn (https://norn.ai/) as part of the board to help ensure the much-needed cognitive ability of the project.
 
-
-
-### Benefits to Board Members
+## Benefits to Board Members
  - Elevated on-chain reputation for prediction accuracy
  - Gains from futures market
+ 
+
+# Proposed Implemenations
 
 ## A Futures Market for Crowdsourcing Net Value of Interventions
 
@@ -228,7 +230,7 @@ Conversely, if a person lives for 1 year in a situation with 0.5 utility (half o
 The QALY is used to quantify the effectiveness of a new medicine versus the current one. In other words, the current standard of care is taken as the baseline, and the QALYs gained from the new (improved) intervention are counted in addition.
  
 
-### Crowdsourcing QALY Estimates
+## Crowdsourcing QALY Estimates
 
 Numerous studies have illustrated the ability of the combined estimates of a large number of minds to produce more accurate predictions than even the greatest experts in the group. However, there are five components necessary to produce optimal results:
 
@@ -256,7 +258,7 @@ If they do nothing, it will be assumed that they did not review the proposal.
 If the "Helpful Pool" is the majority, the proposal will be approved and implemented. Post-marketing pharmacovigilance data will be collected from the participants and used to determine the relative change in healthspan between affected and unaffected populations.
 
 
-### Roadmap
+# Roadmap
 
 1.  Contract Research Organization: Perform research for DAOs and corporations alike. Focus on early stage and replication experiments. Trials run out of Prospera or in a decentralized manner.
 
@@ -272,7 +274,7 @@ If the "Helpful Pool" is the majority, the proposal will be approved and impleme
 	- Certifications for 'bad actors' may be revoked
     
     
-### Legal Structures
+# Possible Legal Structures
 
 *'Co' is intentionally ambiguous; may refer to a cooperative, a collective, and a company.*
 
