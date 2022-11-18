@@ -2,7 +2,7 @@
 title: Weavechain
 description: Weavechain seamlessly integrates into your existing setup and gives your data  the power of Web3.
 published: true
-date: 2022-11-18T02:42:02.101Z
+date: 2022-11-18T02:43:44.991Z
 tags: data sharing, data security, 1st party analytics, data monetization, data lineage
 editor: markdown
 dateCreated: 2022-11-18T02:41:12.412Z
@@ -14,25 +14,11 @@ Weavechain offers a solution for both public and private datasets, with immutabl
 
 # Benefits of Weavechain
 
-## Enterprise secure, off-chain data
-Data remains where security cleared it to be
+- Secure, off-chain data - Data remains where security cleared it to be
+- High throughput, low latency
+- Bring your data assets to tokenized economies
+- 24 major databases supported
+- 8 blockchains supported
 
 
-## High throughput, low latency
-Finally, Web3 technology with the speed to support big data sets
 
-
-## Maximize Data Value
-Bring your data assets to tokenized economies
-
-
-## Any Database
-24 major databases supported, and more on our roadmap
-
-
-## Any Blockchain
-8 blockchains supported, and more on our roadmap
-
-
-## Fully Integrated
-Connect easily, and leave consumer protocols to us
